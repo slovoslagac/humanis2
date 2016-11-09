@@ -70,16 +70,17 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 <div class="container carousel slide carousel-fade" data-ride="carousel" id="carousel" data-interval="10000">
     <div class="carousel-inner text-center">
         <div class="item active">
-            <img src="images/slider/Homepage1.jpg" class="img-responsive" alt="Responsive image">
+            <img src="images/slider/homepage1.jpg" class="img-responsive" alt="Responsive image">
         </div>
         <div class="item">
-            <a href="#" target="blanko"><img  src="images/slider/Homepage2.jpg" class="img-responsive" alt="Responsive image"></a>
+            <a href="#" target="blanko"><img src="images/slider/homepage2.jpg" class="img-responsive"
+                                             alt="Responsive image"></a>
         </div>
         <div class="item">
-            <img src="images/slider/Homepage3.jpg" class="img-responsive" alt="Responsive image">
+            <img src="images/slider/homepage3.jpg" class="img-responsive" alt="Responsive image">
         </div>
         <div class="item">
-            <img src="images/slider/Homepage4.jpg" class="img-responsive" alt="Responsive image">
+            <img src="images/slider/homepage4.jpg" class="img-responsive" alt="Responsive image">
         </div>
     </div>
 
@@ -102,30 +103,53 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     </div>
     <div class="row">
         <div class="col-md-6 col-xs-8 col-xs-offset-2 col-md-offset-0">
-            <div class="embed-responsive embed-responsive-16by9" >
-                <p><iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/hupIjvUGFHE"></iframe></span>
+            <div class="embed-responsive embed-responsive-16by9">
+                <p>
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hupIjvUGFHE"></iframe>
+                    </span>
             </div>
         </div>
         <div class="col-md-6 col-xs-8 col-xs-offset-2 col-md-offset-0">
-            <div class="embed-responsive embed-responsive-16by9" >
-                <p><iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/5dUmeW6QQ84"></iframe>
+            <div class="embed-responsive embed-responsive-16by9">
+                <p>
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5dUmeW6QQ84"></iframe>
             </div>
         </div>
     </div>
 </div>
 <br>
-<nav class="navbar navbar-default navbar-fixed-bottom">
-        <div class="row">
-            <div class="col-sm-4">
-            
-            </div>
-            <div class="col-sm-4 text-center bottom-align-text">
-                <h4>slovoslagac@2016</h4>
-            </div>
-            <div class="col-sm-4 text-right">
-            </div>
-</nav>
+<div class="container container-fluid">
+    <h1 class="text-center">Stručni tim maksimalno posvećen potrebama korisnika.</h1>
+    <div class="row text-center">
+        <div class="col-md-4">
+            <a href="#">
+            <img src="images/menu1.jpg" alt="..." class="img-responsive center-block circleImage" >
+            <h2>Protetika</h2>
+            <p>Premium kvalitet uz najviši standard rehabilitacije.</p>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="#">
+            <img src="images/menu2.jpg" alt="..." class="img-responsive center-block circleImage" >
+            <h2>Ortotika</h2>
+            <p>Kod nas možete pronaći sve vrste ortoza.</p>
+            </a>
+        </div>
+        <div class="col-md-4 ">
+            <a href="http://www.google.com" target="_blank">
+            <img src="images/menu3.jpg" alt="..." class="img-responsive center-block circleImage" >
+            <h2>Maloprodaja</h2>
+            <p>Veliki izbor renomiranih brendova na jednom mestu.</p>
+            </a>
+        </div>
+    </div>
+</div>
+<br>
+<!--footer included-->
+<?php
+include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'footer.php')));
 
+?>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
