@@ -11,7 +11,6 @@ require_once(join(DIRECTORY_SEPARATOR, array('includes', 'init.php')));
 <body>
 <?php
 
-
 // header included in layout
 
 include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
@@ -22,53 +21,26 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 
 <!-- Carousel -->
 
-<div class="container carousel slide carousel-fade" data-ride="carousel" id="carousel" data-interval="10000">
-    <div class="carousel-inner text-center">
-        <div class="item active">
-            <img src="images/slider/homepage1.jpg" class="img-responsive" alt="Responsive image">
-        </div>
-        <div class="item">
-            <a href="#" target="blanko"><img src="images/slider/homepage2.jpg" class="img-responsive"
-                                             alt="Responsive image"></a>
-        </div>
-        <div class="item">
-            <img src="images/slider/homepage3.jpg" class="img-responsive" alt="Responsive image">
-        </div>
-        <div class="item">
-            <img src="images/slider/homepage4.jpg" class="img-responsive" alt="Responsive image">
-        </div>
-    </div>
-
-    <!-- Controls -->
-    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
 <br>
 <!-- Novosti -->
 <div class="container container-fluid">
     <div class="container container-fluid">
-        <h2 class="text-center">Stručni tim maksimalno posvećen potrebama korisnika.</h2>
-
+        <h1 class="text-center">Protetika donjih ekstremiteta</h1>
+        <br>
         <div class="row text-center">
             <div class="col-md-3 imagesMain">
-                <a href="protetika.php">
+                <a href="#">
                     <img src="images/menu1.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
-                        <h3>Protetika</h3>
+                        <h3>Natkolena protetika</h3>
                     </div>
                 </a>
             </div>
             <div class="col-md-3 imagesMain">
-                <a href="ortotika.php">
+                <a href="#">
                     <img src="images/menu2.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
-                        <h3>Ortotika</h3>
+                        <h3>Potkolena protetika</h3>
                     </div>
                 </a>
             </div>
@@ -76,7 +48,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                 <a href="http://www.google.com" target="_blank">
                     <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
-                        <h3>Mobilnost</h3>
+                        <h3>Dezartikulacija kuka</h3>
                     </div>
                 </a>
             </div>
@@ -84,7 +56,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                 <a href="http://www.google.com" target="_blank">
                     <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
-                        <h3>Specijalizovana prodavnica</h3>
+                        <h3>Proteze stopala</h3>
                     </div>
                 </a>
             </div>
@@ -94,7 +66,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                 <a href="#">
                     <img src="images/menu1.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
-                        <h3>Femuralni implant</h3>
+                        <h3>Napredna protetička rešenja</h3>
                     </div>
                 </a>
             </div>
@@ -102,7 +74,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                 <a href="#">
                     <img src="images/menu2.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
-                        <h3>Ortopedski ulošci</h3>
+                        <h3>Protetička stopala</h3>
                     </div>
                 </a>
             </div>
@@ -110,21 +82,12 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                 <a href="http://www.google.com" target="_blank">
                     <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
-                        <h3>Priručnik za amputirce</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="http://www.google.com" target="_blank">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Pitajte doktora</h3>
+                        <h3>Komponente za protetiku</h3>
                     </div>
                 </a>
             </div>
         </div>
     </div>
-
 </div>
 
 <br>

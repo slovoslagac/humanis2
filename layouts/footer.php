@@ -7,13 +7,22 @@
  */
 ?>
 <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
         <div class="row">
-            <div class="col-sm-4 hidden-xs hidden-sm">
+            <div class="col-sm-4 col-xs-12 text-left bottom-align-text">
+                <h4>humanis@2018</h4>
+            </div>
+            <div class="col-sm-4 pull-right text-right socialmediaicons">
 
+                <div class="pull-right">
+                    <a href="https://www.facebook.com/Humanis.rs/" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>
+                    <a href="https://www.instagram.com/humanis.rs/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                    <a href="https://www.youtube.com/channel/UCBIdY0sbIFXrNJ5K__UTEZg" target="_blank"><i class="fab fa-youtube-square fa-2x"></i></a>
+                </div>
+                <div class="pull-right text-center socialmediatext hidden-xs hidden-sm">
+                    <h4>Pratite nas&nbsp&nbsp&nbsp</h4>
+                </div>
             </div>
-            <div class="col-sm-4 col-xs-12 text-center bottom-align-text">
-                <h4>slovoslagac@2016</h4>
-            </div>
-            <div class="col-sm-4 text-righthidden-xs hidden-sm">
-            </div>
+        </div>
+    </div>
 </nav>
