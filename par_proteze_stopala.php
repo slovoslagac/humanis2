@@ -24,28 +24,23 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 <br>
 <!-- Novosti -->
 <div class="container container-fluid">
-    <div class="container container-fluid">
-        <h1 class="text-center">Protetika</h1>
-        <br>
-        <div class="row text-center">
-            <div class="col-md-4 col-md-offset-2 imagesMain">
-                <a href="donji_ekstremiteti.php">
-                    <img src="images/donji_ekstremiteti.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Protetika donjih ekstremiteta</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 imagesMain">
-                <a href="gornji_ekstremiteti.php">
-                    <img src="images/gornji_ekstremiteti.jpg" alt="..." class="img-responsive center-block ">
-                    <div class="imagesInfo">
-                        <h3>Protetika gornjih ekstremiteta</h3>
-                    </div>
-                </a>
-            </div>
-        </div>
+    <h1 class="text-center">Parcijalne proteze stopala</h1>
+    <p>Parcijalne amputacije stopala u zavisnosti od nivoa amputacije uglavnom možemo podeliti na amputaciju prstiju,amputaciju prednjeg delastopala(metatarosphalangeal, transmetatarsal) , Lisfranc amputacija; i amputacija po Chopart-u. </p>
+    <br>
+    <div class="col-md-9 pull-left">
+        <h3>Dostupne opcije</h3>
+        <p>U zavisnosti od karakteristika amputiranog stopala i količine potrebne restauracije, protetička rešenja sežu od individualno izradjenog uloška sa nadgradnjom do visokog kompozitnog.</p>
+        <p>Ležišta sa dinamičkom karbonskom tabanicom.</p>
+        <p>Napredna rešenja obuhvataju maksimalnu kozmetičku i funkcionalnu restauraciju sa  individualno izradjenim silikonskim protezama.</p>
     </div>
+    <div class="col-md-3">
+        <?php for ($i = 1; $i <= 3; $i++) { ?>
+            <div class="imagesMain">
+                <img src="images/parstopala<?php echo $i ?>.jpg" class="img img-responsive center-block">
+            </div>
+        <?php } ?>
+    </div>
+
 </div>
 
 <br>

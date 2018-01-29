@@ -24,24 +24,25 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 <br>
 <!-- Novosti -->
 <div class="container container-fluid">
-    <div class="container container-fluid">
-        <h1 class="text-center">Individualna ortotika</h1>
+    <h1 class="text-center">Individualna ortotika</h1>
+    <br>
+    <div class="col-md-9 pull-left">
         <h3>Šta su ortoze?</h3>
         <p class="text-justify">Ortoze su pomagala za spoljnju aplikaciju dizajnirana tako da se anaomski prilagodjavaju telu. Ortoze se prepisiju i koriste da bi se odredjeni delovi tela tretirali sa
             ciljem korekcije deformiteta, stabilizacije, pružanja podrške kroz kretanje, smanjenje bola ili zaštite nakon povrede ili operacije.</p>
         <p class="text-justify">Ortotička pomagala mogu da variraju od imobilizatora i splitera za prste, pa do kompletnog egzoskeleta. Mogu se proizvoditi od različitih materijala, uključujući gumu,
             kožu, platno, gumenu sintetiku i termoplastiku.</p>
-        <p class="text-justify">U zavisnosti od kliničke slike, potreba svakodnevnih aktivnosti, deformiteta ortoze se mogu izraditi individualno i time u potpunosti  prilagoditi korisniku. </p>
+        <p class="text-justify">U zavisnosti od kliničke slike, potreba svakodnevnih aktivnosti, deformiteta ortoze se mogu izraditi individualno i time u potpunosti prilagoditi korisniku. </p>
         <hr>
         <h3>Podela ortoza prema regiji zbrinjavanja: </h3>
         <br>
         <h4>Ortoze gornjih ekstremiteta:</h4>
         <ul>
-            <li>WO - (wristorthosis)  Ortoze za ručni zglob</li>
+            <li>WO - (wristorthosis) Ortoze za ručni zglob</li>
             <li>WHO (wrist-handorthosis) Ortoze za šaku i ručni zglob</li>
             <li>EO (elboworthosis) Ortoze za lakat</li>
             <li>EWHO (elbow- wrist-handorthosis) Ortoze za lakat,ručni zglob i šaku</li>
-            <li>SEWHO (shoulder-elbow- wrist-handorthosis) Ortoze za rame, lakat,  ručni zglob i šaku</li>
+            <li>SEWHO (shoulder-elbow- wrist-handorthosis) Ortoze za rame, lakat, ručni zglob i šaku</li>
         </ul>
         <h4>Ortoze donjih ekstremiteta: </h4>
         <ul>
@@ -58,6 +59,14 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             <li>CO cervikalne ortoze (kragne)</li>
         </ul>
     </div>
+    <div class="col-md-3">
+        <?php for ($i = 1; $i <= 5; $i++) { ?>
+            <div class="imagesMain">
+                <img src="images/ortoze<?php echo $i ?>.jpg" class="img img-responsive center-block">
+            </div>
+        <?php } ?>
+    </div>
+
 </div>
 
 <br>

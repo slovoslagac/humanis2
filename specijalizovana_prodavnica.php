@@ -25,64 +25,48 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 <!-- Novosti -->
 <div class="container container-fluid">
     <div class="container container-fluid">
-        <h1 class="text-center">Protetika donjih ekstremiteta</h1>
+        <h1 class="text-center">Specijalizovana prodavnica</h1>
         <br>
         <div class="row text-center">
-            <div class="col-md-3 imagesMain">
-                <a href="natkolena_protetika.php">
-                    <img src="images/menu1.jpg" alt="..." class="img-responsive center-block">
+            <div class="col-md-4 imagesMain">
+                <a href="#">
+                    <img src="images/ortoze&mideri.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
-                        <h3>Natkolena protetika</h3>
+                        <h3>Ortoze i mideri</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-md-3 imagesMain">
-                <a href="potkolena_protetika.php">
-                    <img src="images/menu2.jpg" alt="..." class="img-responsive center-block ">
+            <div class="col-md-4 imagesMain">
+                <a href="#">
+                    <img src="images/Kompresivne_carape.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
-                        <h3>Potkolena protetika</h3>
+                        <h3>Flebologija/ kompresivne čarape</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-md-3 imagesMain">
-                <a href="dezartikulacija_kuka.php">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
+            <div class="col-md-4 imagesMain">
+                <a href="#">
+                    <img src="images/Toaletni%20program.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
-                        <h3>Dezartikulacija kuka</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="par_proteze_stopala.php">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Parcijalne proteze stopala</h3>
+                        <h3>Toaletni program</h3>
                     </div>
                 </a>
             </div>
         </div>
         <div class="row text-center">
-            <div class="col-md-3 imagesMain">
+            <div class="col-md-4 imagesMain">
                 <a href="#">
-                    <img src="images/menu1.jpg" alt="..." class="img-responsive center-block">
+                    <img src="images/Antidekubitalni_program.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
-                        <h3>Napredna protetička rešenja</h3>
+                        <h3>Antidekubitalni program</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-md-3 imagesMain">
-                <a href="proteticka_stopala.php">
-                    <img src="images/menu2.jpg" alt="..." class="img-responsive center-block ">
+            <div class="col-md-4 imagesMain">
+                <a href="#">
+                    <img src="images/Pomocna_sredstva_za_kretanje.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
-                        <h3>Protetička stopala</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="komponente_protetika.php">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Komponente za protetiku</h3>
+                        <h3>Pomoćna sredstva za kretanje</h3>
                     </div>
                 </a>
             </div>

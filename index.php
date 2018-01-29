@@ -52,79 +52,76 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 <br>
 <!-- Novosti -->
 <div class="container container-fluid">
-    <div class="container container-fluid">
-        <h2 class="text-center">Stručni tim maksimalno posvećen potrebama korisnika.</h2>
+    <h2 class="text-center">Stručni tim maksimalno posvećen potrebama korisnika.</h2>
 
-        <div class="row text-center">
-            <div class="col-md-3 imagesMain">
-                <a href="protetika.php">
-                    <img src="images/menu1.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Protetika</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="ortotika.php">
-                    <img src="images/menu2.jpg" alt="..." class="img-responsive center-block ">
-                    <div class="imagesInfo">
-                        <h3>Ortotika</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="http://www.google.com" target="_blank">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Mobilnost</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="http://www.google.com" target="_blank">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Specijalizovana prodavnica</h3>
-                    </div>
-                </a>
-            </div>
+    <div class="row text-center">
+        <div class="col-md-3 col-sm-6 imagesMain">
+            <a href="protetika.php">
+                <img src="images/protetika.jpg" alt="..." class="img-responsive center-block">
+                <div class="imagesInfo">
+                    <h3>Protetika</h3>
+                </div>
+            </a>
         </div>
-        <div class="row text-center">
-            <div class="col-md-3 imagesMain">
-                <a href="#">
-                    <img src="images/menu1.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Femuralni implant</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="#">
-                    <img src="images/menu2.jpg" alt="..." class="img-responsive center-block ">
-                    <div class="imagesInfo">
-                        <h3>Ortopedski ulošci</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="http://www.google.com" target="_blank">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Priručnik za amputirce</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 imagesMain">
-                <a href="http://www.google.com" target="_blank">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Pitajte doktora</h3>
-                    </div>
-                </a>
-            </div>
+        <div class="col-md-3 col-sm-6 imagesMain">
+            <a href="ortotika.php">
+                <img src="images/ortotika.jpg" alt="..." class="img-responsive center-block ">
+                <div class="imagesInfo">
+                    <h3>Ortotika</h3>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 imagesMain">
+            <a href="mobilnost.php" target="_blank">
+                <img src="images/mobilnost.jpg" alt="..." class="img-responsive center-block">
+                <div class="imagesInfo">
+                    <h3>Mobilnost</h3>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 imagesMain">
+            <a href="http://www.google.com" target="_blank">
+                <img src="images/prodavnica.jpg" alt="..." class="img-responsive center-block">
+                <div class="imagesInfo">
+                    <h3>Specijalizovana prodavnica</h3>
+                </div>
+            </a>
         </div>
     </div>
-
+    <div class="row text-center">
+        <div class="col-md-3 col-sm-6 imagesMain">
+            <a href="#">
+                <img src="images/inplant.jpg" alt="..." class="img-responsive center-block">
+                <div class="imagesInfo">
+                    <h3>Femоralni implant</h3>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 imagesMain">
+            <a href="ortopedski_ulosci.php">
+                <img src="images/ulosci.jpg" alt="..." class="img-responsive center-block ">
+                <div class="imagesInfo">
+                    <h3>Ortopedski ulošci</h3>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 imagesMain">
+            <a href="http://www.google.com" target="_blank">
+                <img src="images/amputirci.jpg" alt="..." class="img-responsive center-block">
+                <div class="imagesInfo">
+                    <h3>Priručnik za amputirce</h3>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 imagesMain">
+            <a href="pitajte_humanis.php" target="_blank">
+                <img src="images/doktor.jpg" alt="..." class="img-responsive center-block">
+                <div class="imagesInfo">
+                    <h3>Pitajte HUMANIS</h3>
+                </div>
+            </a>
+        </div>
+    </div>
 </div>
 
 <br>

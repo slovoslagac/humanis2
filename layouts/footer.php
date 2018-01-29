@@ -9,10 +9,10 @@
 <nav class="navbar navbar-default navbar-fixed-bottom">
     <div class="container">
         <div class="row">
-            <div class="col-sm-4 col-xs-12 text-left bottom-align-text">
+            <div class="col-xs-4 text-left">
                 <h4>humanis@2018</h4>
             </div>
-            <div class="col-sm-4 pull-right text-right socialmediaicons">
+            <div class="col-xs-4 pull-right text-right socialmediaicons">
 
                 <div class="pull-right">
                     <a href="https://www.facebook.com/Humanis.rs/" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>

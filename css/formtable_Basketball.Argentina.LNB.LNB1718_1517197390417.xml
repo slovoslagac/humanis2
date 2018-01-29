@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SportradarData fileName="Basketball.Argentina.LNB.LNB1718" generatedAt="2018-01-29T04:43:01.618+01:00" serviceId="3" serviceName="formtable" updateType="periodic" xmlns:ns2="http://xmlexport.scoreradar.com/V1">
+    <Sport id="2" name="Basketball">
+        <Category id="264" name="Argentina">
+            <Tournament id="38766" name="LNB" uniqueTournamentId="1680">
+                <Season end="2018-06-25T23:59:00+02:00" id="48434" name="LNB 17/18" start="2017-11-29T00:00:00+01:00" year="17/18"/>
+                <LeagueTable end="2018-06-25T23:59:00+02:00" id="30294" name="LNB" numberOfMatches="6" round="1" start="2017-11-29T00:00:00+01:00" type="form">
+                    <LeagueTableKeys>
+                        <LeagueTableKey columnName="Pos" key="positionTotal"/>
+                        <LeagueTableKey columnName="Pos" key="sortPositionTotal"/>
+                        <LeagueTableKey columnName="Change" key="changeTotal"/>
+                        <LeagueTableKey columnName="P" key="matchesTotal"/>
+                        <LeagueTableKey columnName="P" key="matchesAway"/>
+                        <LeagueTableKey columnName="P" key="matchesHome"/>
+                        <LeagueTableKey columnName="W" key="winTotal"/>
+                        <LeagueTableKey columnName="W" key="winAway"/>
+                        <LeagueTableKey columnName="W" key="winHome"/>
+                        <LeagueTableKey columnName="L" key="lossTotal"/>
+                        <LeagueTableKey columnName="L" key="lossAway"/>
+                        <LeagueTableKey columnName="L" key="lossHome"/>
+                        <LeagueTableKey columnName="Goals" key="goalsTotal"/>
+                        <LeagueTableKey columnName="Goals" key="goalsTotalAway"/>
+                        <LeagueTableKey columnName="Goals" key="goalsTotalHome"/>
+                        <LeagueTableKey columnName="GF" key="goalsForTotal"/>
+                        <LeagueTableKey columnName="GF" key="goalsForAway"/>
+                        <LeagueTableKey columnName="GF" key="goalsForHome"/>
+                        <LeagueTableKey columnName="GA" key="goalsAgainstTotal"/>
+                        <LeagueTableKey columnName="GA" key="goalsAgainstAway"/>
+                        <LeagueTableKey columnName="GA" key="goalsAgainstHome"/>
+                        <LeagueTableKey columnName="DIFF" key="goalDiffTotal"/>
+                        <LeagueTableKey columnName="DIFF" key="goalDiffAway"/>
+                        <LeagueTableKey columnName="DIFF" key="goalDiffHome"/>
+                        <LeagueTableKey columnName="PTS" key="pointsTotal"/>
+                        <LeagueTableKey columnName="PTS" key="pointsAway"/>
+                        <LeagueTableKey columnName="PTS" key="pointsHome"/>
+                        <LeagueTableKey columnName="Tendency" key="tendencyTotal"/>
+                    </LeagueTableKeys>
+                    <LeagueTableRows>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="942989" gender="M" name="Quimsa Santiogo Del Estero" id="125892">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="1"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="1"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="2"/>
+                            <LeagueTableColumn key="matchesHome" value="4"/>
+                            <LeagueTableColumn key="winTotal" value="6"/>
+                            <LeagueTableColumn key="winAway" value="2"/>
+                            <LeagueTableColumn key="winHome" value="4"/>
+                            <LeagueTableColumn key="lossTotal" value="0"/>
+                            <LeagueTableColumn key="lossAway" value="0"/>
+                            <LeagueTableColumn key="lossHome" value="0"/>
+                            <LeagueTableColumn key="goalsTotal" value="537:443"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="179:148"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="358:295"/>
+                            <LeagueTableColumn key="goalsForTotal" value="537"/>
+                            <LeagueTableColumn key="goalsForAway" value="179"/>
+                            <LeagueTableColumn key="goalsForHome" value="358"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="443"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="148"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="295"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="94"/>
+                            <LeagueTableColumn key="goalDiffAway" value="31"/>
+                            <LeagueTableColumn key="goalDiffHome" value="63"/>
+                            <LeagueTableColumn key="pointsTotal" value="12"/>
+                            <LeagueTableColumn key="pointsAway" value="4"/>
+                            <LeagueTableColumn key="pointsHome" value="8"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-2-2-2-2-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="7681936" gender="M" name="CA San Lorenzo de Almagro" id="226024">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="2"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="2"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="2"/>
+                            <LeagueTableColumn key="matchesHome" value="4"/>
+                            <LeagueTableColumn key="winTotal" value="6"/>
+                            <LeagueTableColumn key="winAway" value="2"/>
+                            <LeagueTableColumn key="winHome" value="4"/>
+                            <LeagueTableColumn key="lossTotal" value="0"/>
+                            <LeagueTableColumn key="lossAway" value="0"/>
+                            <LeagueTableColumn key="lossHome" value="0"/>
+                            <LeagueTableColumn key="goalsTotal" value="541:452"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="197:172"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="344:280"/>
+                            <LeagueTableColumn key="goalsForTotal" value="541"/>
+                            <LeagueTableColumn key="goalsForAway" value="197"/>
+                            <LeagueTableColumn key="goalsForHome" value="344"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="452"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="172"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="280"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="89"/>
+                            <LeagueTableColumn key="goalDiffAway" value="25"/>
+                            <LeagueTableColumn key="goalDiffHome" value="64"/>
+                            <LeagueTableColumn key="pointsTotal" value="12"/>
+                            <LeagueTableColumn key="pointsAway" value="4"/>
+                            <LeagueTableColumn key="pointsHome" value="8"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-2-2-2-2-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482105" gender="M" name="Obras Sanitarias" id="125886">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="3"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="3"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="5"/>
+                            <LeagueTableColumn key="matchesHome" value="1"/>
+                            <LeagueTableColumn key="winTotal" value="5"/>
+                            <LeagueTableColumn key="winAway" value="4"/>
+                            <LeagueTableColumn key="winHome" value="1"/>
+                            <LeagueTableColumn key="lossTotal" value="1"/>
+                            <LeagueTableColumn key="lossAway" value="1"/>
+                            <LeagueTableColumn key="lossHome" value="0"/>
+                            <LeagueTableColumn key="goalsTotal" value="520:491"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="428:415"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="92:76"/>
+                            <LeagueTableColumn key="goalsForTotal" value="520"/>
+                            <LeagueTableColumn key="goalsForAway" value="428"/>
+                            <LeagueTableColumn key="goalsForHome" value="92"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="491"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="415"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="76"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="29"/>
+                            <LeagueTableColumn key="goalDiffAway" value="13"/>
+                            <LeagueTableColumn key="goalDiffHome" value="16"/>
+                            <LeagueTableColumn key="pointsTotal" value="11"/>
+                            <LeagueTableColumn key="pointsAway" value="9"/>
+                            <LeagueTableColumn key="pointsHome" value="2"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-2-1-2-2-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="5730808" gender="M" name="San Martin Corrientes" id="125900">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="4"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="4"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="1"/>
+                            <LeagueTableColumn key="matchesHome" value="5"/>
+                            <LeagueTableColumn key="winTotal" value="4"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="4"/>
+                            <LeagueTableColumn key="lossTotal" value="2"/>
+                            <LeagueTableColumn key="lossAway" value="1"/>
+                            <LeagueTableColumn key="lossHome" value="1"/>
+                            <LeagueTableColumn key="goalsTotal" value="542:468"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="81:88"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="461:380"/>
+                            <LeagueTableColumn key="goalsForTotal" value="542"/>
+                            <LeagueTableColumn key="goalsForAway" value="81"/>
+                            <LeagueTableColumn key="goalsForHome" value="461"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="468"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="88"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="380"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="74"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-7"/>
+                            <LeagueTableColumn key="goalDiffHome" value="81"/>
+                            <LeagueTableColumn key="pointsTotal" value="10"/>
+                            <LeagueTableColumn key="pointsAway" value="1"/>
+                            <LeagueTableColumn key="pointsHome" value="9"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-2-2-1-2-1"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="7850742" gender="M" name="IA Central Cordoba" id="226028">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="5"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="5"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="0"/>
+                            <LeagueTableColumn key="matchesHome" value="6"/>
+                            <LeagueTableColumn key="winTotal" value="4"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="4"/>
+                            <LeagueTableColumn key="lossTotal" value="2"/>
+                            <LeagueTableColumn key="lossAway" value="0"/>
+                            <LeagueTableColumn key="lossHome" value="2"/>
+                            <LeagueTableColumn key="goalsTotal" value="504:459"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="0:0"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="504:459"/>
+                            <LeagueTableColumn key="goalsForTotal" value="504"/>
+                            <LeagueTableColumn key="goalsForAway" value="0"/>
+                            <LeagueTableColumn key="goalsForHome" value="504"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="459"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="0"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="459"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="45"/>
+                            <LeagueTableColumn key="goalDiffAway" value="0"/>
+                            <LeagueTableColumn key="goalDiffHome" value="45"/>
+                            <LeagueTableColumn key="pointsTotal" value="10"/>
+                            <LeagueTableColumn key="pointsAway" value="0"/>
+                            <LeagueTableColumn key="pointsHome" value="10"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-2-2-1-1-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482106" gender="M" name="Atenas Cordoba" id="125872">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="6"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="6"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="2"/>
+                            <LeagueTableColumn key="matchesHome" value="4"/>
+                            <LeagueTableColumn key="winTotal" value="4"/>
+                            <LeagueTableColumn key="winAway" value="2"/>
+                            <LeagueTableColumn key="winHome" value="2"/>
+                            <LeagueTableColumn key="lossTotal" value="2"/>
+                            <LeagueTableColumn key="lossAway" value="0"/>
+                            <LeagueTableColumn key="lossHome" value="2"/>
+                            <LeagueTableColumn key="goalsTotal" value="528:493"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="187:168"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="341:325"/>
+                            <LeagueTableColumn key="goalsForTotal" value="528"/>
+                            <LeagueTableColumn key="goalsForAway" value="187"/>
+                            <LeagueTableColumn key="goalsForHome" value="341"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="493"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="168"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="325"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="35"/>
+                            <LeagueTableColumn key="goalDiffAway" value="19"/>
+                            <LeagueTableColumn key="goalDiffHome" value="16"/>
+                            <LeagueTableColumn key="pointsTotal" value="10"/>
+                            <LeagueTableColumn key="pointsAway" value="4"/>
+                            <LeagueTableColumn key="pointsHome" value="6"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-1-2-2-2-1"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482103" gender="M" name="Gimnasia Indalo" id="125878">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="7"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="7"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="0"/>
+                            <LeagueTableColumn key="matchesHome" value="6"/>
+                            <LeagueTableColumn key="winTotal" value="4"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="4"/>
+                            <LeagueTableColumn key="lossTotal" value="2"/>
+                            <LeagueTableColumn key="lossAway" value="0"/>
+                            <LeagueTableColumn key="lossHome" value="2"/>
+                            <LeagueTableColumn key="goalsTotal" value="492:477"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="0:0"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="492:477"/>
+                            <LeagueTableColumn key="goalsForTotal" value="492"/>
+                            <LeagueTableColumn key="goalsForAway" value="0"/>
+                            <LeagueTableColumn key="goalsForHome" value="492"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="477"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="0"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="477"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="15"/>
+                            <LeagueTableColumn key="goalDiffAway" value="0"/>
+                            <LeagueTableColumn key="goalDiffHome" value="15"/>
+                            <LeagueTableColumn key="pointsTotal" value="10"/>
+                            <LeagueTableColumn key="pointsAway" value="0"/>
+                            <LeagueTableColumn key="pointsHome" value="10"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-1-2-2-1-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482102" gender="M" name="Boca Juniors" id="125874">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="8"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="8"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="3"/>
+                            <LeagueTableColumn key="matchesHome" value="3"/>
+                            <LeagueTableColumn key="winTotal" value="4"/>
+                            <LeagueTableColumn key="winAway" value="2"/>
+                            <LeagueTableColumn key="winHome" value="2"/>
+                            <LeagueTableColumn key="lossTotal" value="2"/>
+                            <LeagueTableColumn key="lossAway" value="1"/>
+                            <LeagueTableColumn key="lossHome" value="1"/>
+                            <LeagueTableColumn key="goalsTotal" value="490:488"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="252:254"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="238:234"/>
+                            <LeagueTableColumn key="goalsForTotal" value="490"/>
+                            <LeagueTableColumn key="goalsForAway" value="252"/>
+                            <LeagueTableColumn key="goalsForHome" value="238"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="488"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="254"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="234"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="2"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-2"/>
+                            <LeagueTableColumn key="goalDiffHome" value="4"/>
+                            <LeagueTableColumn key="pointsTotal" value="10"/>
+                            <LeagueTableColumn key="pointsAway" value="5"/>
+                            <LeagueTableColumn key="pointsHome" value="5"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-2-1-2-2-1"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482100" gender="M" name="Estudiantes de Bahia Blanca" id="125898">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="9"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="9"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="2"/>
+                            <LeagueTableColumn key="matchesHome" value="4"/>
+                            <LeagueTableColumn key="winTotal" value="4"/>
+                            <LeagueTableColumn key="winAway" value="1"/>
+                            <LeagueTableColumn key="winHome" value="3"/>
+                            <LeagueTableColumn key="lossTotal" value="2"/>
+                            <LeagueTableColumn key="lossAway" value="1"/>
+                            <LeagueTableColumn key="lossHome" value="1"/>
+                            <LeagueTableColumn key="goalsTotal" value="464:466"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="147:154"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="317:312"/>
+                            <LeagueTableColumn key="goalsForTotal" value="464"/>
+                            <LeagueTableColumn key="goalsForAway" value="147"/>
+                            <LeagueTableColumn key="goalsForHome" value="317"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="466"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="154"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="312"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-2"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-7"/>
+                            <LeagueTableColumn key="goalDiffHome" value="5"/>
+                            <LeagueTableColumn key="pointsTotal" value="10"/>
+                            <LeagueTableColumn key="pointsAway" value="3"/>
+                            <LeagueTableColumn key="pointsHome" value="7"/>
+                            <LeagueTableColumn key="tendencyTotal" value="1-1-2-2-2-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="6796885" gender="M" name="Estudiantes de Concordia" id="125876">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="10"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="10"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="3"/>
+                            <LeagueTableColumn key="matchesHome" value="3"/>
+                            <LeagueTableColumn key="winTotal" value="3"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="3"/>
+                            <LeagueTableColumn key="lossTotal" value="3"/>
+                            <LeagueTableColumn key="lossAway" value="3"/>
+                            <LeagueTableColumn key="lossHome" value="0"/>
+                            <LeagueTableColumn key="goalsTotal" value="516:513"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="248:280"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="268:233"/>
+                            <LeagueTableColumn key="goalsForTotal" value="516"/>
+                            <LeagueTableColumn key="goalsForAway" value="248"/>
+                            <LeagueTableColumn key="goalsForHome" value="268"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="513"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="280"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="233"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="3"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-32"/>
+                            <LeagueTableColumn key="goalDiffHome" value="35"/>
+                            <LeagueTableColumn key="pointsTotal" value="9"/>
+                            <LeagueTableColumn key="pointsAway" value="3"/>
+                            <LeagueTableColumn key="pointsHome" value="6"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-2-1-1-1(OT)-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="5272503" gender="M" name="La Union Formosa" id="125880">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="11"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="11"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="5"/>
+                            <LeagueTableColumn key="matchesHome" value="1"/>
+                            <LeagueTableColumn key="winTotal" value="3"/>
+                            <LeagueTableColumn key="winAway" value="2"/>
+                            <LeagueTableColumn key="winHome" value="1"/>
+                            <LeagueTableColumn key="lossTotal" value="3"/>
+                            <LeagueTableColumn key="lossAway" value="3"/>
+                            <LeagueTableColumn key="lossHome" value="0"/>
+                            <LeagueTableColumn key="goalsTotal" value="463:475"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="378:395"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="85:80"/>
+                            <LeagueTableColumn key="goalsForTotal" value="463"/>
+                            <LeagueTableColumn key="goalsForAway" value="378"/>
+                            <LeagueTableColumn key="goalsForHome" value="85"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="475"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="395"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="80"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-12"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-17"/>
+                            <LeagueTableColumn key="goalDiffHome" value="5"/>
+                            <LeagueTableColumn key="pointsTotal" value="9"/>
+                            <LeagueTableColumn key="pointsAway" value="7"/>
+                            <LeagueTableColumn key="pointsHome" value="2"/>
+                            <LeagueTableColumn key="tendencyTotal" value="1-1-1-2-2-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="10141750" gender="M" name="Salta Basket" id="378990">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="12"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="12"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="2"/>
+                            <LeagueTableColumn key="matchesHome" value="4"/>
+                            <LeagueTableColumn key="winTotal" value="3"/>
+                            <LeagueTableColumn key="winAway" value="1"/>
+                            <LeagueTableColumn key="winHome" value="2"/>
+                            <LeagueTableColumn key="lossTotal" value="3"/>
+                            <LeagueTableColumn key="lossAway" value="1"/>
+                            <LeagueTableColumn key="lossHome" value="2"/>
+                            <LeagueTableColumn key="goalsTotal" value="465:483"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="146:170"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="319:313"/>
+                            <LeagueTableColumn key="goalsForTotal" value="465"/>
+                            <LeagueTableColumn key="goalsForAway" value="146"/>
+                            <LeagueTableColumn key="goalsForHome" value="319"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="483"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="170"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="313"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-18"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-24"/>
+                            <LeagueTableColumn key="goalDiffHome" value="6"/>
+                            <LeagueTableColumn key="pointsTotal" value="9"/>
+                            <LeagueTableColumn key="pointsAway" value="3"/>
+                            <LeagueTableColumn key="pointsHome" value="6"/>
+                            <LeagueTableColumn key="tendencyTotal" value="1-1-2-1-2-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482111" gender="M" name="Regatas Corrientes" id="125894">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="13"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="13"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="4"/>
+                            <LeagueTableColumn key="matchesHome" value="2"/>
+                            <LeagueTableColumn key="winTotal" value="3"/>
+                            <LeagueTableColumn key="winAway" value="2"/>
+                            <LeagueTableColumn key="winHome" value="1"/>
+                            <LeagueTableColumn key="lossTotal" value="3"/>
+                            <LeagueTableColumn key="lossAway" value="2"/>
+                            <LeagueTableColumn key="lossHome" value="1"/>
+                            <LeagueTableColumn key="goalsTotal" value="488:508"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="320:341"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="168:167"/>
+                            <LeagueTableColumn key="goalsForTotal" value="488"/>
+                            <LeagueTableColumn key="goalsForAway" value="320"/>
+                            <LeagueTableColumn key="goalsForHome" value="168"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="508"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="341"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="167"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-20"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-21"/>
+                            <LeagueTableColumn key="goalDiffHome" value="1"/>
+                            <LeagueTableColumn key="pointsTotal" value="9"/>
+                            <LeagueTableColumn key="pointsAway" value="6"/>
+                            <LeagueTableColumn key="pointsHome" value="3"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-1-2-1-1-2"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="7684939" gender="M" name="Ferro Carril Oeste" id="226026">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="14"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="14"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="4"/>
+                            <LeagueTableColumn key="matchesHome" value="2"/>
+                            <LeagueTableColumn key="winTotal" value="2"/>
+                            <LeagueTableColumn key="winAway" value="1"/>
+                            <LeagueTableColumn key="winHome" value="1"/>
+                            <LeagueTableColumn key="lossTotal" value="4"/>
+                            <LeagueTableColumn key="lossAway" value="3"/>
+                            <LeagueTableColumn key="lossHome" value="1"/>
+                            <LeagueTableColumn key="goalsTotal" value="471:480"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="303:320"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="168:160"/>
+                            <LeagueTableColumn key="goalsForTotal" value="471"/>
+                            <LeagueTableColumn key="goalsForAway" value="303"/>
+                            <LeagueTableColumn key="goalsForHome" value="168"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="480"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="320"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="160"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-9"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-17"/>
+                            <LeagueTableColumn key="goalDiffHome" value="8"/>
+                            <LeagueTableColumn key="pointsTotal" value="8"/>
+                            <LeagueTableColumn key="pointsAway" value="5"/>
+                            <LeagueTableColumn key="pointsHome" value="3"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-2-1-1-1-1"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="9100992" gender="M" name="Club Deportivo Hispano Americano" id="285331">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="15"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="15"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="4"/>
+                            <LeagueTableColumn key="matchesHome" value="2"/>
+                            <LeagueTableColumn key="winTotal" value="2"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="2"/>
+                            <LeagueTableColumn key="lossTotal" value="4"/>
+                            <LeagueTableColumn key="lossAway" value="4"/>
+                            <LeagueTableColumn key="lossHome" value="0"/>
+                            <LeagueTableColumn key="goalsTotal" value="491:503"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="320:355"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="171:148"/>
+                            <LeagueTableColumn key="goalsForTotal" value="491"/>
+                            <LeagueTableColumn key="goalsForAway" value="320"/>
+                            <LeagueTableColumn key="goalsForHome" value="171"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="503"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="355"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="148"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-12"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-35"/>
+                            <LeagueTableColumn key="goalDiffHome" value="23"/>
+                            <LeagueTableColumn key="pointsTotal" value="8"/>
+                            <LeagueTableColumn key="pointsAway" value="4"/>
+                            <LeagueTableColumn key="pointsHome" value="4"/>
+                            <LeagueTableColumn key="tendencyTotal" value="1-1-2-2-1-1"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="10141749" gender="M" name="Comunicaciones" id="378988">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="16"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="16"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="3"/>
+                            <LeagueTableColumn key="matchesHome" value="3"/>
+                            <LeagueTableColumn key="winTotal" value="2"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="2"/>
+                            <LeagueTableColumn key="lossTotal" value="4"/>
+                            <LeagueTableColumn key="lossAway" value="3"/>
+                            <LeagueTableColumn key="lossHome" value="1"/>
+                            <LeagueTableColumn key="goalsTotal" value="500:529"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="241:281"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="259:248"/>
+                            <LeagueTableColumn key="goalsForTotal" value="500"/>
+                            <LeagueTableColumn key="goalsForAway" value="241"/>
+                            <LeagueTableColumn key="goalsForHome" value="259"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="529"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="281"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="248"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-29"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-40"/>
+                            <LeagueTableColumn key="goalDiffHome" value="11"/>
+                            <LeagueTableColumn key="pointsTotal" value="8"/>
+                            <LeagueTableColumn key="pointsAway" value="3"/>
+                            <LeagueTableColumn key="pointsHome" value="5"/>
+                            <LeagueTableColumn key="tendencyTotal" value="2-1-1-1-2-1"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482107" gender="M" name="Penarol Mar Del Plata" id="125888">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="17"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="17"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="4"/>
+                            <LeagueTableColumn key="matchesHome" value="2"/>
+                            <LeagueTableColumn key="winTotal" value="1"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="1"/>
+                            <LeagueTableColumn key="lossTotal" value="5"/>
+                            <LeagueTableColumn key="lossAway" value="4"/>
+                            <LeagueTableColumn key="lossHome" value="1"/>
+                            <LeagueTableColumn key="goalsTotal" value="499:525"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="311:338"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="188:187"/>
+                            <LeagueTableColumn key="goalsForTotal" value="499"/>
+                            <LeagueTableColumn key="goalsForAway" value="311"/>
+                            <LeagueTableColumn key="goalsForHome" value="188"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="525"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="338"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="187"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-26"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-27"/>
+                            <LeagueTableColumn key="goalDiffHome" value="1"/>
+                            <LeagueTableColumn key="pointsTotal" value="7"/>
+                            <LeagueTableColumn key="pointsAway" value="4"/>
+                            <LeagueTableColumn key="pointsHome" value="3"/>
+                            <LeagueTableColumn key="tendencyTotal" value="1-1-1-2-1-1"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482112" gender="M" name="Argentino Junin" id="125870">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="18"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="18"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="3"/>
+                            <LeagueTableColumn key="matchesHome" value="3"/>
+                            <LeagueTableColumn key="winTotal" value="1"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="1"/>
+                            <LeagueTableColumn key="lossTotal" value="5"/>
+                            <LeagueTableColumn key="lossAway" value="3"/>
+                            <LeagueTableColumn key="lossHome" value="2"/>
+                            <LeagueTableColumn key="goalsTotal" value="472:516"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="220:265"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="252:251"/>
+                            <LeagueTableColumn key="goalsForTotal" value="472"/>
+                            <LeagueTableColumn key="goalsForAway" value="220"/>
+                            <LeagueTableColumn key="goalsForHome" value="252"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="516"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="265"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="251"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-44"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-45"/>
+                            <LeagueTableColumn key="goalDiffHome" value="1"/>
+                            <LeagueTableColumn key="pointsTotal" value="7"/>
+                            <LeagueTableColumn key="pointsAway" value="3"/>
+                            <LeagueTableColumn key="pointsHome" value="4"/>
+                            <LeagueTableColumn key="tendencyTotal" value="1-1-1-1-1-2(OT)"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="631603" gender="M" name="Ciclista Olimpico de La Banda" id="125884">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="19"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="19"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="2"/>
+                            <LeagueTableColumn key="matchesHome" value="4"/>
+                            <LeagueTableColumn key="winTotal" value="1"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="1"/>
+                            <LeagueTableColumn key="lossTotal" value="5"/>
+                            <LeagueTableColumn key="lossAway" value="2"/>
+                            <LeagueTableColumn key="lossHome" value="3"/>
+                            <LeagueTableColumn key="goalsTotal" value="461:510"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="145:181"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="316:329"/>
+                            <LeagueTableColumn key="goalsForTotal" value="461"/>
+                            <LeagueTableColumn key="goalsForAway" value="145"/>
+                            <LeagueTableColumn key="goalsForHome" value="316"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="510"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="181"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="329"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-49"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-36"/>
+                            <LeagueTableColumn key="goalDiffHome" value="-13"/>
+                            <LeagueTableColumn key="pointsTotal" value="7"/>
+                            <LeagueTableColumn key="pointsAway" value="2"/>
+                            <LeagueTableColumn key="pointsHome" value="5"/>
+                            <LeagueTableColumn key="tendencyTotal" value="1-1-1-2-1-1"/>
+                        </LeagueTableRow>
+                        <LeagueTableRow>
+                            <Team betradarTeamId="482099" gender="M" name="Quilmes Mar Del Plata" id="125890">
+                                <Country iso="ARG" id="10" ioc="ARG" name="Argentina"/>
+                            </Team>
+                            <LeagueTableColumn key="positionTotal" value="20"/>
+                            <LeagueTableColumn key="sortPositionTotal" value="20"/>
+                            <LeagueTableColumn key="changeTotal" value="0"/>
+                            <LeagueTableColumn key="matchesTotal" value="6"/>
+                            <LeagueTableColumn key="matchesAway" value="5"/>
+                            <LeagueTableColumn key="matchesHome" value="1"/>
+                            <LeagueTableColumn key="winTotal" value="0"/>
+                            <LeagueTableColumn key="winAway" value="0"/>
+                            <LeagueTableColumn key="winHome" value="0"/>
+                            <LeagueTableColumn key="lossTotal" value="6"/>
+                            <LeagueTableColumn key="lossAway" value="5"/>
+                            <LeagueTableColumn key="lossHome" value="1"/>
+                            <LeagueTableColumn key="goalsTotal" value="495:582"/>
+                            <LeagueTableColumn key="goalsTotalAway" value="404:472"/>
+                            <LeagueTableColumn key="goalsTotalHome" value="91:110"/>
+                            <LeagueTableColumn key="goalsForTotal" value="495"/>
+                            <LeagueTableColumn key="goalsForAway" value="404"/>
+                            <LeagueTableColumn key="goalsForHome" value="91"/>
+                            <LeagueTableColumn key="goalsAgainstTotal" value="582"/>
+                            <LeagueTableColumn key="goalsAgainstAway" value="472"/>
+                            <LeagueTableColumn key="goalsAgainstHome" value="110"/>
+                            <LeagueTableColumn key="goalDiffTotal" value="-87"/>
+                            <LeagueTableColumn key="goalDiffAway" value="-68"/>
+                            <LeagueTableColumn key="goalDiffHome" value="-19"/>
+                            <LeagueTableColumn key="pointsTotal" value="6"/>
+                            <LeagueTableColumn key="pointsAway" value="5"/>
+                            <LeagueTableColumn key="pointsHome" value="1"/>
+                            <LeagueTableColumn key="tendencyTotal" value="1-1-1-1-1-1"/>
+                        </LeagueTableRow>
+                    </LeagueTableRows>
+                    <TieBreakingRules id="29" rankingrule="In the event that two (or more) teams have an equal number of points, the following rules break the tie:
+1. Win/loss percentage
+2. Head-to-head"/>
+                </LeagueTable>
+            </Tournament>
+        </Category>
+    </Sport>
+</ns2:SportradarData>

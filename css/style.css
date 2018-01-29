@@ -124,19 +124,21 @@ a {
 }
 
 .imagesInfo {
-    bottom: 10%;
+    bottom: 15%;
     position: absolute;
     left: 0;
     text-align: center;
     width: 100%;
-    padding: 13px;
+    padding: 6px;
     background: rgba(255,255,255,0.9);
     filter: alpha(opacity=90);
     color: #1B3B6F;
+
 }
 
 .imagesMain {
     margin-bottom: 15px;
+
 }
 
 .socialmediaicons {

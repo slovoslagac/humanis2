@@ -30,15 +30,15 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <div class="row text-center">
             <div class="col-md-4 col-md-offset-2 imagesMain">
                 <a href="individualna_ortotika.php">
-                    <img src="images/menu1.jpg" alt="..." class="img-responsive center-block">
+                    <img src="images/individualna_ortotika.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
                         <h3>Individualna ortotika</h3>
                     </div>
                 </a>
             </div>
             <div class="col-md-4 imagesMain">
-                <a href="#">
-                    <img src="images/menu2.jpg" alt="..." class="img-responsive center-block ">
+                <a href="decija_ortotika.php">
+                    <img src="images/decija_ortotika.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
                         <h3>Dečija ortotika</h3>
                     </div>
