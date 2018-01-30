@@ -41,7 +41,9 @@
                     <li><a tabindex="-1" href="decija_ortotika.php">Dečija ortotika</a></li>
                 </ul>
             </li>
-            <li><a href="mobilnost.php">Mobilnost</a></li>
+            <li><a href="mobilnost.php">Mobilnost</a>
+
+            </li>
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"  aria-expanded="false">Iskustva korisnika<span class="caret"></span></a>
                 <ul class="dropdown-menu">
@@ -51,7 +53,15 @@
                     <li><a tabindex="-1" href="#">Goran Pavlović</a></li>
                 </ul>
             </li>
-            <li><a href="specijalizovana_prodavnica.php">Specijalizovana prodavnica</a></li>
+            <li><a href="specijalizovana_prodavnica.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"  aria-expanded="false">Specijalizovana prodavnica<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a tabindex="-1" href="#">Ortoze i mideri</a></li>
+                    <li><a tabindex="-1" href="flebologija.php">Flebologija / kompresivne čarape</a></li>
+                    <li><a tabindex="-1" href="#">Toaletni program</a></li>
+                    <li><a tabindex="-1" href="#">Antidekubitalni program</a></li>
+                    <li><a tabindex="-1" href="#">Pomoćna sredstva za kretanje</a></li>
+                </ul>
+            </li>
             <li><a href="#">O nama</a></li>
             <li><a href="#">Kontakt</a></li>
         </ul>

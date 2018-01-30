@@ -80,7 +80,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </a>
         </div>
         <div class="col-md-3 col-sm-6 imagesMain">
-            <a href="http://www.google.com" target="_blank">
+            <a href="specijalizovana_prodavnica.php">
                 <img src="images/prodavnica.jpg" alt="..." class="img-responsive center-block">
                 <div class="imagesInfo">
                     <h3>Specijalizovana prodavnica</h3>

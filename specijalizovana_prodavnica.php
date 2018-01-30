@@ -37,7 +37,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                 </a>
             </div>
             <div class="col-md-4 imagesMain">
-                <a href="#">
+                <a href="flebologija.php">
                     <img src="images/Kompresivne_carape.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
                         <h3>Flebologija/ kompresivne čarape</h3>
@@ -46,7 +46,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </div>
             <div class="col-md-4 imagesMain">
                 <a href="#">
-                    <img src="images/Toaletni%20program.jpg" alt="..." class="img-responsive center-block ">
+                    <img src="images/toaletni_program.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
                         <h3>Toaletni program</h3>
                     </div>

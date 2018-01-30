@@ -30,7 +30,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <div class="row text-center">
             <div class="col-md-4 imagesMain">
                 <a href="#">
-                    <img src="images/ortoze&mideri.jpg" alt="..." class="img-responsive center-block">
+                    <img src="images/aktivna.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
                         <h3>Aktivna kolica</h3>
                     </div>
@@ -38,9 +38,9 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </div>
             <div class="col-md-4 imagesMain">
                 <a href="#">
-                    <img src="images/Kompresivne_carape.jpg" alt="..." class="img-responsive center-block ">
+                    <img src="images/mehanicka.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
-                        <h3>Mehani;ka kolica</h3>
+                        <h3>Mehanička kolica</h3>
                     </div>
                 </a>
             </div>
@@ -56,7 +56,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <div class="row text-center">
             <div class="col-md-4 imagesMain">
                 <a href="#">
-                    <img src="images/Antidekubitalni_program.jpg" alt="..." class="img-responsive center-block">
+                    <img src="images/decija.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
                         <h3>Dečija kolica</h3>
                     </div>
@@ -64,7 +64,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </div>
             <div class="col-md-4 imagesMain">
                 <a href="#">
-                    <img src="images/Pomocna_sredstva_za_kretanje.jpg" alt="..." class="img-responsive center-block ">
+                    <img src="images/elektromotorna.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
                         <h3>Elektromotorna kolica</h3>
                     </div>

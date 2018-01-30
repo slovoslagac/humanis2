@@ -30,17 +30,17 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     <p>Vaše pitanje možete postaviti na stranici KONTAKT sa naznakom oblasti ili stučnjaka odredjene oblasti.</p>
     <br>
     <div class="col-md-12 pull-left">
-        <h3>Za HUMANIS</h3>
+        <h4>Za HUMANIS</h4>
         <div class="row">
             <div class="col-md-3">
-                <h4>dr. Zorica Minić</h4>
+                <h3>dr. Zorica Minić</h3>
                 <p>Rehabilitacija, koordinator zbrinjavanja protetika</p>
             </div>
             <div class="col-md-3">
-                <img src="" class="img img-responsive imagesMain">
+                <img src="images/zorica.png" class="img img-responsive imagesMain">
             </div>
             <div class="col-md-3">
-                <h4>c.p.o Aleksandar Filipović</h4>
+                <h3>c.p.o Aleksandar Filipović</h3>
                 <p>Protetika i ortotika</p>
             </div>
             <div class="col-md-3">
@@ -49,14 +49,14 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         </div>
         <div class="row">
             <div class="col-md-3">
-                <h4>vft Miloš Janković</h4>
+                <h3>vft Miloš Janković</h3>
                 <p>Rehabilitacija, dečija ortotika</p>
             </div>
             <div class="col-md-3">
                 <img src="images/milos.png" class="img img-responsive imagesMain">
             </div>
             <div class="col-md-3">
-                <h4>Danijela Jović Matijašević</h4>
+                <h3>Danijela Jović Matijašević</h3>
                 <p>Reha i pomoćna medicinska sredstva</p>
             </div>
             <div class="col-md-3">
@@ -65,7 +65,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         </div>
         <div class="row">
             <div class="col-md-3">
-                <h4>c.p.o Marko Lukić</h4>
+                <h3>c.p.o Marko Lukić</h3>
                 <p>Protetika i ortotika</p>
             </div>
             <div class="col-md-3">
