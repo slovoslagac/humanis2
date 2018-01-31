@@ -27,8 +27,8 @@
                         </ul>
                         <a class="test" tabindex="-1" href="#">Protetika gornjih ekstremiteta<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a tabindex="-1" href="#">Protetičke opcije</a></li>
-                            <li><a tabindex="-1" href="#">Amputacioni nivoi</a></li>
+                            <li><a tabindex="-1" href="proteticke_opcije.php">Protetičke opcije</a></li>
+                            <li><a tabindex="-1" href="amputacioni_nivoi.php">Amputacioni nivoi</a></li>
                             <li><a tabindex="-1" href="#">Napredna protetička rešenja</a></li>
                         </ul>
                     </li>
@@ -57,8 +57,8 @@
                 <ul class="dropdown-menu">
                     <li><a tabindex="-1" href="#">Ortoze i mideri</a></li>
                     <li><a tabindex="-1" href="flebologija.php">Flebologija / kompresivne čarape</a></li>
-                    <li><a tabindex="-1" href="#">Toaletni program</a></li>
-                    <li><a tabindex="-1" href="#">Antidekubitalni program</a></li>
+                    <li><a tabindex="-1" href="toaletni_program.php">Toaletni program</a></li>
+                    <li><a tabindex="-1" href="antidekubitalni_program.php">Antidekubitalni program</a></li>
                     <li><a tabindex="-1" href="#">Pomoćna sredstva za kretanje</a></li>
                 </ul>
             </li>
