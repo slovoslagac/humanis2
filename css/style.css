@@ -2,6 +2,13 @@ body {
     padding-bottom: 50px;
     padding-top: 175px;
     color:#000000;
+    background: #DBE5F5;
+    background: linear-gradient(to right,#F2F6FD,#8DABD9) ;
+    /*background-image: url("../images/bg1.jpg"), url("../images/bg2.jpg");*/
+    /*background-repeat: no-repeat, no-repeat;*/
+    /*background-position: left center, right center;*/
+    /*background-attachment: fixed;*/
+    /*background-blend-mode: normal;*/
 }
 
 a {
@@ -53,7 +60,24 @@ a {
     z-index: 2;
 }
 
-@media (max-width: 1059px) {
+.imagesInfo {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    padding: 6px;
+    background: rgba(255,255,255,0.5);
+    filter: alpha(opacity=90);
+    color: #1B3B6F;
+    top: 60%;
+    left: 12%;
+    right: 10%;
+    max-width: 76%;
+}
+
+
+
+
+@media (max-width: 1200px) {
     body {
         padding-top: 225px;
     }
@@ -74,8 +98,24 @@ a {
         right: 0;
     }
 
+
 }
 
+@media (max-width: 768px) {
+    .imagesInfo, .imagesInfo4 {
+        top: 65%;
+        left: 30%;
+        max-width: 40%;
+    }
+}
+
+@media (max-width: 500px) {
+    .imagesInfo, .imagesInfo4 {
+        top: 55%;
+        left: 15%;
+        max-width: 70%;
+    }
+}
 
 
 .circleImage {
@@ -123,22 +163,14 @@ a {
     margin-top: -1px;
 }
 
-.imagesInfo {
-    bottom: 15%;
-    position: absolute;
-    left: 0;
-    text-align: center;
-    width: 100%;
-    padding: 6px;
-    background: rgba(255,255,255,0.9);
-    filter: alpha(opacity=90);
-    color: #1B3B6F;
-
-}
 
 .imagesMain {
     margin-bottom: 15px;
+}
 
+.imagesOrto {
+    margin-bottom: 15px;
+    max-height: 200px;
 }
 
 .socialmediaicons {
@@ -149,6 +181,16 @@ a {
 
 .socialmediatext {
     margin: 0;
+}
+
+.greypart {
+    background-color: #E2E4E7;
+    padding: 20px 50px 20px 50px;
+}
+
+.lightgreenpart {
+    background-color: #CFFEFD;
+    padding: 20px 50px 20px 50px;
 }
 
 

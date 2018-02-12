@@ -24,54 +24,59 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 <br>
 <!-- Novosti -->
 <div class="container container-fluid">
-    <h1 class="text-center">Pitajte doktora</h1>
-    <p>Dobrodošli na stranicu na kojoj možete zatražiti stručni savet i posavetovati se sa našim stručnjacima i stručnim saradnicima iz oblasti,ortopedske protetike i ortotike,rehabilitacije,
+    <br>
+    <h1 class="text-center">Pitajte Humanis</h1>
+    <p>Dobrodošli na stranicu na kojoj se možete upoznati i posavetovati se sa našim stručnjacima i stručnim saradnicima iz oblasti, ortopedske protetike i ortotike,rehabilitacije,
         flebologije,rehabilitacionih i pomoćnih medicinskih sredstava. </p>
     <p>Vaše pitanje možete postaviti na stranici KONTAKT sa naznakom oblasti ili stučnjaka odredjene oblasti.</p>
     <br>
-    <div class="col-md-12 pull-left">
+    <div class="col-sm-12 pull-left">
         <h4>Za HUMANIS</h4>
         <div class="row">
-            <div class="col-md-3">
-                <h3>dr. Zorica Minić</h3>
+            <div class="col-sm-3">
+                <h3>dr Zorica Minić</h3>
                 <p>Rehabilitacija, koordinator zbrinjavanja protetika</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-sm-3">
                 <img src="images/zorica.png" class="img img-responsive imagesMain">
             </div>
-            <div class="col-md-3">
-                <h3>c.p.o Aleksandar Filipović</h3>
+            <div class="col-sm-3">
+                <h3>cpo Aleksandar Filipović</h3>
                 <p>Protetika i ortotika</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-sm-3">
                 <img src="images/aleksandar.png" class="img img-responsive imagesMain">
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-3">
+            <div class="col-sm-3">
                 <h3>vft Miloš Janković</h3>
                 <p>Rehabilitacija, dečija ortotika</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-sm-3">
                 <img src="images/milos.png" class="img img-responsive imagesMain">
             </div>
-            <div class="col-md-3">
+            <div class="col-sm-3">
                 <h3>Danijela Jović Matijašević</h3>
                 <p>Reha i pomoćna medicinska sredstva</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-sm-3">
                 <img src="images/danijela.png" class="img img-responsive imagesMain">
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-3">
-                <h3>c.p.o Marko Lukić</h3>
+            <div class="col-sm-3">
+                <h3>cpo Marko Lukić</h3>
                 <p>Protetika i ortotika</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-sm-3">
                 <img src="images/marko.png" class="img img-responsive imagesMain">
             </div>
+            <div class="col-sm-3">
+                <h3>ft Milinko Jokić</h3>
+                <p>Dečija ortotika</p>
+            </div>
+            <div class="col-sm-3">
+                <img src="images/milinko.png" class="img img-responsive imagesMain">
+            </div>
         </div>
+
     </div>
 
 </div>

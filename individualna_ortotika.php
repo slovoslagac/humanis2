@@ -32,7 +32,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             ciljem korekcije deformiteta, stabilizacije, pružanja podrške kroz kretanje, smanjenje bola ili zaštite nakon povrede ili operacije.</p>
         <p class="text-justify">Ortotička pomagala mogu da variraju od imobilizatora i splitera za prste, pa do kompletnog egzoskeleta. Mogu se proizvoditi od različitih materijala, uključujući gumu,
             kožu, platno, gumenu sintetiku i termoplastiku.</p>
-        <p class="text-justify">U zavisnosti od kliničke slike, potreba svakodnevnih aktivnosti, deformiteta ortoze se mogu izraditi individualno i time u potpunosti prilagoditi korisniku. </p>
+        <p class="text-justify">U zavisnosti od kliničke slike, potreba, svakodnevnih aktivnosti ili deformiteta u Humanisu izradijujemo sve tipove individualnih ortoza koje u potpunosti prilagodjavamo korisniku.</p>
         <hr>
         <h3>Podela ortoza prema regiji zbrinjavanja: </h3>
         <br>

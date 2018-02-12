@@ -28,25 +28,25 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <h1 class="text-center">Protetika gornjih ekstremiteta</h1>
         <br>
         <div class="row text-center">
-            <div class="col-md-4 imagesMain">
-                <a href="#">
-                    <img src="images/menu1.jpg" alt="..." class="img-responsive center-block">
+            <div class="col-md-4 col-sm-6 imagesMain">
+                <a href="proteticke_opcije.php">
+                    <img src="images/pgopcije.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
                         <h3>Protetičke opcije</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-md-4 imagesMain">
-                <a href="#">
-                    <img src="images/menu2.jpg" alt="..." class="img-responsive center-block ">
+            <div class="col-md-4 col-sm-6 imagesMain">
+                <a href="amputacioni_nivoi.php">
+                    <img src="images/pgnivoi.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
                         <h3>Amputacioni nivoi</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-md-4 imagesMain">
-                <a href="http://www.google.com" target="_blank">
-                    <img src="images/menu3.jpg" alt="..." class="img-responsive center-block">
+            <div class="col-md-4 col-sm-6 imagesMain">
+                <a href="">
+                    <img src="images/pgnapredna.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
                         <h3>Napredna protetička rešenja</h3>
                     </div>

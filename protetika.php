@@ -24,26 +24,24 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 <br>
 <!-- Novosti -->
 <div class="container container-fluid">
-    <div class="container container-fluid">
-        <h1 class="text-center">Protetika</h1>
-        <br>
-        <div class="row text-center">
-            <div class="col-md-4 col-md-offset-2 imagesMain">
-                <a href="donji_ekstremiteti.php">
-                    <img src="images/donji_ekstremiteti.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Protetika donjih ekstremiteta</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 imagesMain">
-                <a href="gornji_ekstremiteti.php">
-                    <img src="images/gornji_ekstremiteti.jpg" alt="..." class="img-responsive center-block ">
-                    <div class="imagesInfo">
-                        <h3>Protetika gornjih ekstremiteta</h3>
-                    </div>
-                </a>
-            </div>
+    <h1 class="text-center">Protetika</h1>
+    <br>
+    <div class="row text-center">
+        <div class="col-md-4 col-md-offset-2 col-sm-6 imagesMain">
+            <a href="donji_ekstremiteti.php">
+                <img src="images/donji_ekstremiteti.jpg" alt="..." class="img-responsive center-block">
+                <div class="imagesInfo">
+                    <h3>Protetika donjih ekstremiteta</h3>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4 col-sm-6 imagesMain">
+            <a href="gornji_ekstremiteti.php">
+                <img src="images/gornji_ekstremiteti.jpg" alt="..." class="img-responsive center-block ">
+                <div class="imagesInfo">
+                    <h3>Protetika gornjih ekstremiteta</h3>
+                </div>
+            </a>
         </div>
     </div>
 </div>

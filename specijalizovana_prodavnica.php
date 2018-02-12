@@ -27,16 +27,16 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     <div class="container container-fluid">
         <h1 class="text-center">Specijalizovana prodavnica</h1>
         <br>
-        <div class="row text-center">
-            <div class="col-md-4 imagesMain">
-                <a href="#">
+        <div class="row">
+            <div class="col-md-4 col-sm-6 imagesMain">
+                <a href="ortoze&mideri.php">
                     <img src="images/ortoze&mideri.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
                         <h3>Ortoze i mideri</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-md-4 imagesMain">
+            <div class="col-md-4 col-sm-6 imagesMain">
                 <a href="flebologija.php">
                     <img src="images/Kompresivne_carape.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
@@ -44,57 +44,55 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                     </div>
                 </a>
             </div>
-            <div class="col-md-4 imagesMain">
-                <a href="#">
+            <div class="col-md-4 col-sm-6 imagesMain">
+                <a href="toaletni_program.php">
                     <img src="images/toaletni_program.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
                         <h3>Toaletni program</h3>
                     </div>
                 </a>
             </div>
-        </div>
-        <div class="row text-center">
-            <div class="col-md-4 imagesMain">
-                <a href="#">
+            <div class="col-md-4 col-sm-6 imagesMain">
+                <a href="antidekubitalni_program.php">
                     <img src="images/Antidekubitalni_program.jpg" alt="..." class="img-responsive center-block">
                     <div class="imagesInfo">
                         <h3>Antidekubitalni program</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-md-4 imagesMain">
-                <a href="#">
+            <div class="col-md-4 col-sm-6 imagesMain">
+                <a href="pomocna_sredstva_za_kretanje.php">
                     <img src="images/Pomocna_sredstva_za_kretanje.jpg" alt="..." class="img-responsive center-block ">
                     <div class="imagesInfo">
                         <h3>Pomoćna sredstva za kretanje</h3>
                     </div>
                 </a>
             </div>
+
         </div>
     </div>
-</div>
 
-<br>
-<!--footer included-->
-<?php
-include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'footer.php')));
+    <br>
+    <!--footer included-->
+    <?php
+    include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'footer.php')));
 
-?>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-        crossorigin="anonymous"></script>
-<script>
-    $(document).ready(function () {
-        $('.dropdown-submenu a.test').on("click", function (e) {
-            $(this).next('ul').toggle();
-            e.stopPropagation();
-            e.preventDefault();
+    ?>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $('.dropdown-submenu a.test').on("click", function (e) {
+                $(this).next('ul').toggle();
+                e.stopPropagation();
+                e.preventDefault();
+            });
         });
-    });
-</script>
+    </script>
 
 </body>
 </html>

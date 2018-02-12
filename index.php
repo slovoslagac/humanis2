@@ -22,37 +22,9 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 
 <!-- Carousel -->
 
-<div class="container carousel slide carousel-fade" data-ride="carousel" id="carousel" data-interval="10000">
-    <div class="carousel-inner text-center">
-        <div class="item active">
-            <img src="images/slider/homepage1.jpg" class="img-responsive" alt="Responsive image">
-        </div>
-        <div class="item">
-            <a href="#" target="blanko"><img src="images/slider/homepage2.jpg" class="img-responsive"
-                                             alt="Responsive image"></a>
-        </div>
-        <div class="item">
-            <img src="images/slider/homepage3.jpg" class="img-responsive" alt="Responsive image">
-        </div>
-        <div class="item">
-            <img src="images/slider/homepage4.jpg" class="img-responsive" alt="Responsive image">
-        </div>
-    </div>
-
-    <!-- Controls -->
-    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
-<br>
 <!-- Novosti -->
 <div class="container container-fluid">
-    <h2 class="text-center">Stručni tim maksimalno posvećen potrebama korisnika.</h2>
+    <h1 class="text-center">Stručni tim maksimalno posvećen potrebama korisnika.</h1>
 
     <div class="row text-center">
         <div class="col-md-3 col-sm-6 imagesMain">
@@ -72,7 +44,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </a>
         </div>
         <div class="col-md-3 col-sm-6 imagesMain">
-            <a href="mobilnost.php" target="_blank">
+            <a href="mobilnost.php">
                 <img src="images/mobilnost.jpg" alt="..." class="img-responsive center-block">
                 <div class="imagesInfo">
                     <h3>Mobilnost</h3>
@@ -90,7 +62,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     </div>
     <div class="row text-center">
         <div class="col-md-3 col-sm-6 imagesMain">
-            <a href="#">
+            <a href="femoralni_implant.php">
                 <img src="images/inplant.jpg" alt="..." class="img-responsive center-block">
                 <div class="imagesInfo">
                     <h3>Femоralni implant</h3>
@@ -106,15 +78,15 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </a>
         </div>
         <div class="col-md-3 col-sm-6 imagesMain">
-            <a href="http://www.google.com" target="_blank">
+            <a href="vodic_nakon_amputacije.php">
                 <img src="images/amputirci.jpg" alt="..." class="img-responsive center-block">
                 <div class="imagesInfo">
-                    <h3>Priručnik za amputirce</h3>
+                    <h3>Vodič nakon amputacije</h3>
                 </div>
             </a>
         </div>
         <div class="col-md-3 col-sm-6 imagesMain">
-            <a href="pitajte_humanis.php" target="_blank">
+            <a href="pitajte_humanis.php">
                 <img src="images/doktor.jpg" alt="..." class="img-responsive center-block">
                 <div class="imagesInfo">
                     <h3>Pitajte HUMANIS</h3>
@@ -122,6 +94,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </a>
         </div>
     </div>
+
 </div>
 
 <br>

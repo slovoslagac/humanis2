@@ -1,5 +1,5 @@
 <!--<nav class="navbar navbar-default" role="navigation">-->
-<div class="container-fluid menu">
+<div class="container menu">
     <div class="navbar-header">
         <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#menu">
             <span class="sr-only">Toggle navigation</span>
@@ -35,7 +35,7 @@
                 </ul>
             </li>
             <li class="dropdown">
-                <a href="ortotika.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"  aria-expanded="false">Ortotika<span class="caret"></span></a>
+                <a href="ortotika.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ortotika<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                     <li><a tabindex="-1" href="individualna_ortotika.php">Individualna ortotika</a></li>
                     <li><a tabindex="-1" href="decija_ortotika.php">Dečija ortotika</a></li>
@@ -45,24 +45,34 @@
 
             </li>
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"  aria-expanded="false">Iskustva korisnika<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Iskustva korisnika<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li><a tabindex="-1" href="#">Uroš Popović</a></li>
-                    <li><a tabindex="-1" href="#">Smiljka Lazić</a></li>
-                    <li><a tabindex="-1" href="#">Blažo Bata Vukotić</a></li>
-                    <li><a tabindex="-1" href="#">Goran Pavlović</a></li>
+                    <li><a tabindex="-1" href="biljana_stojkovic.php">Biljana Stojković</a></li>
+                    <li><a tabindex="-1" href="uros_popovic.php">Uroš Popović</a></li>
+                    <li><a tabindex="-1" href="smiljka_lazic.php">Smiljka Lazić</a></li>
+                    <li><a tabindex="-1" href="blazo_vukotic.php">Blažo Bata Vukotić</a></li>
+                    <li><a tabindex="-1" href="goran_pavlovic.php">Goran Pavlović</a></li>
                 </ul>
             </li>
-            <li><a href="specijalizovana_prodavnica.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"  aria-expanded="false">Specijalizovana prodavnica<span class="caret"></span></a>
+            <li class="dropdown"><a href="specijalizovana_prodavnica.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Specijalizovana
+                    prodavnica<span
+                        class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li><a tabindex="-1" href="#">Ortoze i mideri</a></li>
-                    <li><a tabindex="-1" href="flebologija.php">Flebologija / kompresivne čarape</a></li>
-                    <li><a tabindex="-1" href="toaletni_program.php">Toaletni program</a></li>
-                    <li><a tabindex="-1" href="antidekubitalni_program.php">Antidekubitalni program</a></li>
-                    <li><a tabindex="-1" href="#">Pomoćna sredstva za kretanje</a></li>
+                    <li class="dropdown-submenu">
+                        <a class="test" tabindex="-1" href="#">Ortoze i mideri<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a tabindex="-1" href="#">Gornji ekstremiteti</a></li>
+                            <li><a tabindex="-1" href="#">Torzo i vrat</a></li>
+                            <li><a tabindex="-1" href="o&m_donji_ekstremiteti.php">Donji ekstremiteti</a></li>
+                        </ul>
+                        <a tabindex="-1" href="flebologija.php">Flebologija / kompresivne čarape</a>
+                        <a tabindex="-1" href="toaletni_program.php">Toaletni program</a>
+                        <a tabindex="-1" href="antidekubitalni_program.php">Antidekubitalni program</a>
+                        <a tabindex="-1" href="pomocna_sredstva_za_kretanje.php">Pomoćna sredstva za kretanje</a>
+                    </li>
                 </ul>
             </li>
-            <li><a href="#">O nama</a></li>
+            <li><a href="o_nama.php">O nama</a></li>
             <li><a href="#">Kontakt</a></li>
         </ul>
 
