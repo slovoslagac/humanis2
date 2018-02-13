@@ -35,7 +35,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <p>Glavne karakteristike ležišta koje mi izrađujemo su laganost, pouzdanost u skladu sa nivoom korisničke aktivnosti, kao i udobnost nošenja. Da bi smo postigli navedene karakteristike,
             kombinujemo nekoliko različitih materijala, kao što su ugljenikovo vlakno za formiranje strukture,fleksibilni umetak, i kompresivne kompozitne pene.</p>
         <p>Na osnovu iskustva, smatramo da je najudobniji i najfunkcionalniji dizajn za izradu ležišta, kombinacija dva principa (konvencionalni i hidrostaički). Mi u svojim ležištima raspoređujemo
-            pritisak preko cele površine ostatka, pri čemu nivo opterećenja zavisi od toga koliko su delovi ostatka tolerantni na pritisak. Primera radi, strukture kao što su osetljiva koščana mesta,
+            pritisak preko cele površine ostatka, pri čemu nivo opterećenja zavisi od toga koliko su delovi ostatka tolerantni na pritisak. Primera radi, strukture kao što su osetljiva koštana mesta,
             grupe nerava ili izbrazdana koža, biće manje opterećene nego neoštećeni delovi ostatka. </p>
         <p>U cilju daljeg sprovođenja naše ideje o raspoređivanju opterećenja pravilno preko celog ostatka, naš predlog je upotreba protetskih lajnera. Ovi lajneri se kreću od relativno jakih,
             silikonskih, do mnogo makših, gel lajnera. Veći broj ovih lajnera može se koristiti sa mekim savitljivim unutrašnjim ležištem, radi bolje zaštite.</p>
@@ -46,17 +46,17 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <p>Trenutno postoje dva pristupa u fiksiranju proteze na ljudsko telo. Prva metoda je konvencionalan pristup usmeren ka održavanju proteze na anatomskim strukturama pomoću traka, kaiševa i
             otisaka u ležištu. Nedostatci ove metode su opterećenje i frikcija na maloj površini mekog tkiva. Vremenom ova opterećenost može prouzrokovati oštećenje kože, probleme sa cirkulacijom i
             lokalnu atrofiju.</p>
-        <p>U drugom pristupu, proteza se drži na udu pomoću protetičkih lajnera ili uz asistenciju pasivnog ili dinamičkog vakum sistema. Lajneri mogu biti napravljeni od relativno čvrstog silikona
+        <p>U drugom pristupu, proteza se drži na udu pomoću protetičkih lajnera ili uz asistenciju pasivnog ili dinamičkog vakuum sistema. Lajneri mogu biti napravljeni od relativno čvrstog silikona
             ili mekših gelova kako bi se omogućilo fiksiranje i zaštita preostatka. Oni su blago pričvršćeni za kožu i gotovo u potpunosti onemogućuju pokret između kože i lajnera. Nakon toga dodaci
             se mogu staviti na lajner kako bismo ga vezali za protezu u vidu bravica itd.</p>
         <p>Pasivni ili dinamički sistemi koriste negativni pritisak koji se javlja izmedju preostatka i ležišta.Sistemi se mogu koristiti direktno u dodiru preostatka i ležišta ili uz pomoć silikon
-            lanera koji povećavaju nivo udobnosti.</p>
+            lajnera koji povećavaju nivo udobnosti.</p>
         <h3>Privremena proteza</h3>
-        <p>Privremena proteza je predvidjena za nove korisnike.Moze se aplikovati prilikom stacionarnog ili ambulatnog lečenja.</p>
-        <p>Korišćenje privremene proteze ima mnogo prednosti. Omogućava formiranje preostatka i kompletno zalečivanje , proces može trajati do šest meseci, a ponekad i duže. Protetička čarapa ili
+        <p>Privremena proteza je predviđena za nove korisnike. Može se aplikovati prilikom stacionarnog ili ambulatnog lečenja.</p>
+        <p>Korišćenje privremene proteze ima mnogo prednosti. Omogucćava formiranje preostatka i kompletno zalečivanje , proces može trajati do šest meseci, a ponekad i duže. Protetička čarapa ili
             silikon- gel lajner se nosi između ležišta i tela kako bi se zaštitila osetljiva koža preostatka. Svaki dan, obim preostatka će se smanjivati kako se i otok smanjuje. Kada se to dogodi,
-            korisnik može dodati dodatne slojeve čarapa kako bi ostvario čvrst kontakt u ležištu. Ako se doda veliki broj navlaka, izradiće se novo test ležište. </p>
-        <p>Privremena proteza obično nema kozmetičku oblogu, tako da je protetičaru lakše prilagoditi poravnanje i koleno. Koisnici obično započinju fizikalnu terapiju i školu hoda sa privremenom
+            korisnik može dodati dodatne slojeve čarapa kako bi ostvario čvrst kontakt u ležištu. Ako se dodaje veliki broj navlaka, izradiće se novo test ležište. </p>
+        <p>Privremena proteza obično nema kozmetičku oblogu, tako da je protetičaru lakše prilagoditi poravnanje i koleno. Korisnici obično započinju fizikalnu terapiju i školu hoda sa privremenom
             protezom. Tokom ovog vremena veoma je važno pronaći i definisati bilo kakve pritiske ili abrazije na preostatku. Kada se volumen preostatka stabilizuje i osoba je razvila stabilan nivo
             aktivnosti, obično je vreme da se pređe na definitivnu protezu.</p>
         <h3>Definitivna proteza</h3>

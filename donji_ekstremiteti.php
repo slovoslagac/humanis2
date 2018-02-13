@@ -60,7 +60,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </a>
         </div>
         <div class="col-md-3 col-sm-6 imagesMain">
-            <a href="proteticka_stopala.php">
+            <a href="donja_napredna_proteticka_resenja.php">
                 <img src="images/pdnaprednaprotetika.jpg" alt="..." class="img-responsive center-block">
                 <div class="imagesInfo">
                     <h3>Napredna protetička rešenja</h3>

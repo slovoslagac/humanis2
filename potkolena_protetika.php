@@ -34,7 +34,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <p>Glavne karakteristike ležišta koje mi izrađujemo su laganost, pouzdanost u skladu sa nivoom korisničke aktivnosti, kao i udobnost nošenja. Da bi smo postigli navedene karakteristike,
             kombinujemo nekoliko različitih materijala, kao što su ugljenikovo vlakno za formiranje strukture,fleksibilni umetak, i kompresivne kompozitne pene.</p>
         <p>Na osnovu iskustva, smatramo da je najudobniji i najfunkcionalniji dizajn za izradu ležišta, kombinacija dva principa (konvencionalni i hidrostaički). Mi u svojim ležištima raspoređujemo
-            pritisak preko cele površine ostatka, pri čemu nivo opterećenja zavisi od toga koliko su delovi ostatka tolerantni na pritisak. Primera radi, strukture kao što su osetljiva koščana mesta,
+            pritisak preko cele površine ostatka, pri čemu nivo opterećenja zavisi od toga koliko su delovi ostatka tolerantni na pritisak. Primera radi, strukture kao što su osetljiva koštana mesta,
             grupe nerava ili izbrazdana koža, biće manje opterećene nego neoštećeni delovi ostatka. </p>
         <p>U cilju daljeg sprovođenja naše ideje o raspoređivanju opterećenja pravilno preko celog ostatka, naš predlog je upotreba protetskih lajnera. Ovi lajneri se kreću od relativno jakih,
             silikonskih, do mnogo makših, gel lajnera. Veći broj ovih lajnera može se koristiti sa mekim savitljivim unutrašnjim ležištem, radi bolje zaštite.</p>

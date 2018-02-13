@@ -24,36 +24,32 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
 <br>
 <!-- Novosti -->
 <div class="container container-fluid">
-    <div class="container container-fluid">
-        <h1 class="text-center">Ortoze i mideri</h1>
-        <br>
-        <div class="row text-center">
-            <div class="col-sm-4 imagesMain">
-                <a href="o&m_gornji_ekstremiteti.php">
-                    <img src="images/o&mgornjieks.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Gornji ekstremiteti</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-4 imagesMain">
-                <a href="o&m_torzo_vrat.php">
-                    <img src="images/o&mtorzovrat.jpg" alt="..." class="img-responsive center-block ">
-                    <div class="imagesInfo">
-                        <h3>Torzo i vrat</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-4 imagesMain">
-                <a href="o&m_donji_ekstremiteti.php">
-                    <img src="images/o&mdonjieks.jpg" alt="..." class="img-responsive center-block">
-                    <div class="imagesInfo">
-                        <h3>Donji ekstremiteti</h3>
-                    </div>
-                </a>
+    <h1 class="text-center">Napredna protetička rešenja</h1>
+    <p><strong>HUMANIS</strong> kao lider u oblasti ortopetske protetike u svojoj ponudi donosi širok asortiman vrhunskih tehnoloških rešenja sa ciljem postavljanja novih standarda kvaliteta
+        funkcionalnosti udobnosti I estetike.</p>
+    <p>Sa željom da svojim korisnicima omogući život bez ograničenja tim HUMANIS-a zahvaljujući višegodišnjem iskustvu predano iznalazi najbolja rešenja. Uverite se.</p>
+    <br>
+
+    <div class="col-md-12 pull-left">
+        <h3>Izdvajamo</h3>
+        <ul>
+            <li>Bioničke protetičke šake </li>
+            <li>Savremeni nadalakatni mioelektrični sistemi </li>
+            <li>Silokonska kozmetička restautracija</li>
+        </ul>
+
+    </div>
+    <div class="horizontalLine"></div>
+
+    <?php for ($i = 1; $i <= 5; $i++) { ?>
+        <div class="col-md-3 pull-left">
+            <div class="imagesMain img img-responsive">
+                <img src="images/gnapredna<?php echo $i ?>.jpg" class="img img-responsive center-block">
             </div>
         </div>
-    </div>
+    <?php } ?>
+
+
 </div>
 
 <br>

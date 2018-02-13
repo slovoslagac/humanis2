@@ -21,7 +21,7 @@
                             <li><a tabindex="-1" href="potkolena_protetika.php">Potkolena protetika</a></li>
                             <li><a tabindex="-1" href="dezartikulacija_kuka.php">Dezartikulacija kuka</a></li>
                             <li><a tabindex="-1" href="par_proteze_stopala.php">Parcijalne proteze stopala</a></li>
-                            <li><a tabindex="-1" href="#">Napredna protetička rešenja</a></li>
+                            <li><a tabindex="-1" href="donja_napredna_proteticka_resenja.php">Napredna protetička rešenja</a></li>
                             <li><a tabindex="-1" href="proteticka_stopala.php">Protetička stopala</a></li>
                             <li><a tabindex="-1" href="komponente_protetika.php">Komponente za protetiku</a></li>
                         </ul>
@@ -29,7 +29,7 @@
                         <ul class="dropdown-menu">
                             <li><a tabindex="-1" href="proteticke_opcije.php">Protetičke opcije</a></li>
                             <li><a tabindex="-1" href="amputacioni_nivoi.php">Amputacioni nivoi</a></li>
-                            <li><a tabindex="-1" href="#">Napredna protetička rešenja</a></li>
+                            <li><a tabindex="-1" href="gornja_napredna_proteticka_resenja.php">Napredna protetička rešenja</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -39,6 +39,7 @@
                 <ul class="dropdown-menu">
                     <li><a tabindex="-1" href="individualna_ortotika.php">Individualna ortotika</a></li>
                     <li><a tabindex="-1" href="decija_ortotika.php">Dečija ortotika</a></li>
+                    <li><a tabindex="-1" href="ortoze&mideri.php">Ortoze i mideri</a></li>
                 </ul>
             </li>
             <li><a href="mobilnost.php">Mobilnost</a>
@@ -61,8 +62,8 @@
                     <li class="dropdown-submenu">
                         <a class="test" tabindex="-1" href="#">Ortoze i mideri<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a tabindex="-1" href="#">Gornji ekstremiteti</a></li>
-                            <li><a tabindex="-1" href="#">Torzo i vrat</a></li>
+                            <li><a tabindex="-1" href="o&m_gornji_ekstremiteti.php">Gornji ekstremiteti</a></li>
+                            <li><a tabindex="-1" href="o&m_torzo_vrat.php">Torzo i vrat</a></li>
                             <li><a tabindex="-1" href="o&m_donji_ekstremiteti.php">Donji ekstremiteti</a></li>
                         </ul>
                         <a tabindex="-1" href="flebologija.php">Flebologija / kompresivne čarape</a>
@@ -73,7 +74,7 @@
                 </ul>
             </li>
             <li><a href="o_nama.php">O nama</a></li>
-            <li><a href="#">Kontakt</a></li>
+            <li><a href="kontakt.php">Kontakt</a></li>
         </ul>
 
     </div>

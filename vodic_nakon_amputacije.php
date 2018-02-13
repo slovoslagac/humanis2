@@ -27,7 +27,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     <h1 class="text-center">VODIČ NAKON AMPUTACIJE</h1>
     <br>
     <p>Vodič ima za cilj da prikaže optimalnu putanju od amputacije do aplikovanja prve proteze korisniku. Vodič obuhvata najvažnije korake koji pozitivno utiču na uspešnu rehabilitaciju korisnika.
-        Cilj je da se korisnik u što kraćem vremenskom periodu uspešno vrati prethodnom načinu života. </p>
+        Cilj je da se korisnik u što kraćem vremenskom periodu uspešno vrati predhodnom načinu života. </p>
     <p>Nakon hirurškog zbrinjavanja i zarastanja rane, sledi rehabilitacija pacijenta koja se temelji na pet ključnih osnova, a to su:</p>
     <ul>
         <li>multidisciplinarni pristup</li>
