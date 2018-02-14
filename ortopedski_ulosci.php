@@ -41,8 +41,8 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             ranije jasno dijagnostikovati problem i uz izradu individualnih ortopedkih uložaka vratiti telu dobru biomehaničku potporu radi ubaživanja simptoma i daljeg pravilnog razvoja.U nekim
             slučajevima kada zbog stanja ili patologija nije moguće tretirati deformitet ortopedskim ulošcima stopalo se tretira ortotskim pomagalima(ortozama za stopalo).</p>
         <h3>Ulošci za dijabetično stopalo</h3>
-        <p>Šetnja nije samo odlična aktivnost, takođe veoma korisna za naše zdravlje. Ipak, za ljude sa dijabetesom, to bi moglo doneti niz rizika. Smanjena senzacija na stopalima znači da je u većini
-            slučajeva teško da shvatite kada se noga povredi. Shodno tome, morate obratiti veliku pažnju kada je u pitanju sprečavanje rana ili ulcera na stopalima.
+        <p>Šetnja nije samo odlična aktivnost, takođe veoma korisna za naše zdravlje. Ipak, za ljude sa dijabetesom, to bi moglo doneti niz rizika. Usled smanjene senzacije stopala može nastati veliki
+            broj povreda. Shodno tome, morate obratiti veliku pažnju kada je u pitanju sprečavanje rana ili ulcera na stopalima.
             Dobra stvar je što možete spriječiti veliki broj povreda stopala samo brigom o stopalima.Adekavtno individualno izradjeni ulošci će ravnomerno rasporediti pritisak preko cele površine
             stopala rasterećujući tako prominentne tačke i dajući potporom bolju prokrvljenost stopala.Kombinacijom mekanog materijala i čvrste potpore stopalu dajemo dve osnovne potrebe absorpciju
             mehaničkog pritiska i podršku koštamo zglobnog sistema.</p>

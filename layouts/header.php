@@ -7,7 +7,7 @@
             <br>
             <p><span class="glyphicon glyphicon-phone-alt"></span> 381(11) 747-67-00</p>
             <p><span class="glyphicon glyphicon-envelope"></span> office@humanis.rs</p>
-            <p><span class="glyphicon glyphicon-pushpin"></span> kralja Aleksandra 518 V, 11000 Beograd, Srbija</p>
+            <p><span class="glyphicon glyphicon-pushpin"></span> Bulevar kralja Aleksandra 518 V, 11000 Beograd, Srbija</p>
         </div>
 
     </div>

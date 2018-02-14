@@ -55,7 +55,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <div class="col-md-6">
             <p>Kompresivna terapija počinje nakon skidanja čvrstog zavoja, 5 do 7 dana nakon operacije, i da traje do aplikovanja proteze. Važno je koristiti kompresivnu čarapu, elastične zavoje ili
                 silikon lajner u ovom ranom stadijumu, s obzirom na to da se volumen ostatka najviše menja tokom prve nedelje nakon amputacije. </p>
-            <h4>Cilj kompresivne treapije je:</h4>
+            <h4>Cilj kompresivne terapije je:</h4>
             <ul>
                 <li>standardizovati tretman</li>
                 <li>obezbediti odgovarajući oblik preostatka za protetičko ležište</li>

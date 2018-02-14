@@ -254,7 +254,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             </p>
         </div>
         <div class="col-md-2">
-            <img src="" class="img img-responsive center-block imagesMain">
+            <img src="images/airstrong.jpg" class="img img-responsive center-block imagesMain">
         </div>
 
     </div>

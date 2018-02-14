@@ -36,6 +36,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             <li>Protetička mikroprocesorska kolena.</li>
             <li>PROTHEFLEX sistem protetičkih fleksibilnih ležišta</li>
             <li>CLIC MEDICAL adaptibilan dodatak protetičkim ležištima koji može pratiti dnevne oscilacije i promene voluma preostatka.</li>
+            <li>Proteze za sport</li>
         </ul>
 
     </div>

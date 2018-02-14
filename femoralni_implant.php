@@ -72,7 +72,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <li>Alergija na neku od komponenti implanta.</li>
     </ul>
     <br>
-    <h4>Ako želite da saznate više o Keep Walking implantu , molimo pozovite nas na kontakt telefone dostupne na kontakt stranici. </h4>
+    <h3><strong>Želite da saznate više o Keep Walking implantu , molimo pozovite nas na kontakt telefone dostupne na kontakt stranici.</strong></h3>
     <br>
     <div class="row">
         <div class="col-sm-6">

@@ -31,7 +31,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     <p>Vaše pitanje možete postaviti na stranici KONTAKT sa naznakom oblasti ili stučnjaka odredjene oblasti.</p>
     <br>
     <div class="col-sm-12 pull-left">
-        <h4>Za HUMANIS</h4>
+        <h2>Za HUMANIS</h2>
         <div class="row">
             <div class="col-sm-3">
                 <h3>dr Zorica Minić</h3>
