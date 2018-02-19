@@ -39,9 +39,9 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             <li>Jednoosovinska stopala imaju pokret u zglobu stopala ,nude određeno podešavanje otpora i čvrstine uključivanjem izabranih umetaka od gume.</li>
             <li>Multiaksijalna stopala omogućavaju okretanje stopala uz povećavajući stabilnosti i udobnosti na neravnim površinama.</li>
             <li>Stopala sa dinamičkim odrazom čuvaju i vraćaju energiju dok korisnik šeta, što rezultira prirodnim hodom.Ova stopala se obično aplikuju na aktivnije pacijente.</li>
-            <li>Stopala sa podešavajućom visinom potpetice idealna su za ljude koji žele da menjaju cipele sa različitim visinama pete,takodje su korisna za hod po nagibu ili nagnutom terenu.</li>
+            <li>Stopala sa podešavajućom visinom potpetice idealna su za ljude koji žele da menjaju cipele sa različitim visinama pete,takođe su korisna za hod po nagibu ili nagnutom terenu.</li>
             <li>Stopala sa mikroprocesorom pružaju varijabilni otpor.Taj momenat kontroliše integrisani računar koji kontinuirano obrađuje informacije kao što su brzina hodanja, nagibi i neravne
-                površine. Neka stopala imaju mogućnost podesivosti visine pete. Ona su predodredjena za umereno aktivne pacijente.
+                površine. Neka stopala imaju mogućnost podesivosti visine pete. Ona su predodređena za umereno aktivne pacijente.
             </li>
         </ul>
 

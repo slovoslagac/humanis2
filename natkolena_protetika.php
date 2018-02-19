@@ -49,7 +49,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <p>U drugom pristupu, proteza se drži na udu pomoću protetičkih lajnera ili uz asistenciju pasivnog ili dinamičkog vakuum sistema. Lajneri mogu biti napravljeni od relativno čvrstog silikona
             ili mekših gelova kako bi se omogućilo fiksiranje i zaštita preostatka. Oni su blago pričvršćeni za kožu i gotovo u potpunosti onemogućuju pokret između kože i lajnera. Nakon toga dodaci
             se mogu staviti na lajner kako bismo ga vezali za protezu u vidu bravica itd.</p>
-        <p>Pasivni ili dinamički sistemi koriste negativni pritisak koji se javlja izmedju preostatka i ležišta.Sistemi se mogu koristiti direktno u dodiru preostatka i ležišta ili uz pomoć silikon
+        <p>Pasivni ili dinamički sistemi koriste negativni pritisak koji se javlja između preostatka i ležišta.Sistemi se mogu koristiti direktno u dodiru preostatka i ležišta ili uz pomoć silikon
             lajnera koji povećavaju nivo udobnosti.</p>
         <h3>Privremena proteza</h3>
         <p>Privremena proteza je predviđena za nove korisnike. Može se aplikovati prilikom stacionarnog ili ambulatnog lečenja.</p>
@@ -60,7 +60,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             protezom. Tokom ovog vremena veoma je važno pronaći i definisati bilo kakve pritiske ili abrazije na preostatku. Kada se volumen preostatka stabilizuje i osoba je razvila stabilan nivo
             aktivnosti, obično je vreme da se pređe na definitivnu protezu.</p>
         <h3>Definitivna proteza</h3>
-        <p>Nakon formiranja preostatka i dobre obučenosti korisnika u korišćenju proteze izradjuje se definitivno ležite na postojeću konstrukciju uz postavljanje mekane estetske obloge.</p>
+        <p>Nakon formiranja preostatka i dobre obučenosti korisnika u korišćenju proteze izrađuje se definitivno ležite na postojeću konstrukciju uz postavljanje mekane estetske obloge.</p>
     </div>
     <div class="col-md-3">
         <?php for ($i = 1; $i <= 3; $i++) { ?>

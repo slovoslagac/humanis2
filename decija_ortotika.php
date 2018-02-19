@@ -28,7 +28,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     <br>
     <div class="col-md-9 pull-left">
         <h3>Šta su ortoze?</h3>
-        <p>Ortoze su pomagala za spoljnju aplIkaciju dizajnirana tako da se anatomski prilagođavaju telu. Ortoze se prepisuju i koriste da bi se određeni delovi tela tretirali sa ciljem korekcije
+        <p>Ortoze su pomagala za spoljnu aplIkaciju dizajnirana tako da se anatomski prilagođavaju telu. Ortoze se prepisuju i koriste da bi se određeni delovi tela tretirali sa ciljem korekcije
             deformiteta, stabilizacije, pružanje podrške kroz kretanje, smanjenje bola ili zaštite nakon povrede ili operacije.</p>
         <h3>Ortoze u pedijatriji – kome su potrebne?</h3>
         <p>Ortoze imaju važnu ulogu u podršci razvoja beba i dece i u primeni terapijskog zbrinjavanja na polju patologija u pedijatriji. Npr: oroze za abdukciju kukova kod beba radi pravilnog
@@ -59,7 +59,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             zategnuti što omogućava da se kuk pravilno formira. Ortotičar sarađuje sa medicinskim timom i porodicom kako bi odredio najadekvatniji dizajn ortoze ,koji najbolje odgovara zahtevima
             pozicije kuka individualno kod svake bebe.</p>
         <h3>Abdukcione Ortoze za stopala za decu sa kongenitalnim ekvinovarusom</h3>
-        <p>Kongenitalni ekvinovarus (Congenital Talipes Equinovarus) je najzastupjeniji kongenitalni deformitet stopala koji pogadja 1 od 1000 novorodjenih beba.</p>
+        <p>Kongenitalni ekvinovarus (Congenital Talipes Equinovarus) je najzastupjeniji kongenitalni deformitet stopala koji pogađa 1 od 1000 novorođenih beba.</p>
         <p>Kako ortoze za stopala funkcionišu? </p>
         <p>Ovaj tip ortoza je koncipiran tako što se prvo stopalo dovede u maksimalno korigovan položaj, a zatim se postavi ortoza i na taj način se zadržava stopalo u položaju koji omogućava pravilan
             dalji razvoj, koriguje deformitet i sprečava povratak stopala u neadekvatnu poziciju. Potrebno je dobro odabrati dizajn i vrstu ortoze u skladu sa svim terapijskim postupcima uz

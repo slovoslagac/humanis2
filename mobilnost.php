@@ -33,7 +33,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
             <p>Lagana invalidska kolica su tvoj produžetak, savršena usklađenost sa aktivnim načinom života i izrazom vaše ličnosti!</p>
             <p>Naša ponuda invalidskih kolica sastoji se od čvrstih i laganih invalidskih kolica, preklopnih invalidskih kolica sa mogućnošću pozicioniranja nagiba,koja su dizajnirana tako da
                 obezbede vrhunsku kontrolu, odlične vozne performanse i visoko podesiva kako bi odgovarali vama i vašim potrebama.</p>
-            <p>Sva kolica se izradjuju individualno po mernom listu u zavisnosti od Vaših potreba.</p>
+            <p>Sva kolica se izrađuju individualno po mernom listu u zavisnosti od Vaših potreba.</p>
             <p>Svaka invalidska kolica ima svoju osobenu ličnost, koja se slaže sa vašim? </p>
         </div>
         <div class="col-md-3 col-md-offset-1">
@@ -79,7 +79,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <h3>Elektromotorna kolica</h3>
         <div class="col-md-8">
             <p>Startna i laka za manevrisanje, kolica sa srednjim ili zadnjim pogonom za vaš samostalni život .</p>
-            <p> Dodjite da izaberemo kolica sa kojima će te imati superiorno pozicioniranje uz maksimalni konfor. Sofisticirani sistemi oslanjanja, širok spektar sistema za sedenje i brojne opcije
+            <p> Dođite da izaberemo kolica sa kojima će te imati superiorno pozicioniranje uz maksimalni konfor. Sofisticirani sistemi oslanjanja, širok spektar sistema za sedenje i brojne opcije
                 kontrole pogona postvljaju vašu nezavisnost na sledeći nivo.</p>
             <p>Individualna izrada po mernom listu. </p>
 

@@ -43,7 +43,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <p>Pilon je deo proteze koji prenosi težinu između ležišta i protetičkog stopala. Mnogi ljudi više vole dinamične pilone koji pomažu u amorizaciji sile koja se prenosi do preostatka svaki put
             kada peta udari u zemlju. Ovo je naročito važno za ljude koji redovno učestvuju u aktivnostima kao što su trčanje ili drugi sportovi. Neki piloni imaju apsorpciju momenta koji omogućavaju
             rotaciju stopala do 45 stepeni u bilo kom pravcu; količina otpora može se podesiti u zavisnosti od aktivnosti. Apsorpcija momenta može biti važna osobina za ljude koji igraju golf ili
-            tenis.Mogu biti izradjeni od kompozita, inoxa, titana ili aluminijuma.</p>
+            tenis.Mogu biti izrađeni od kompozita, inoxa, titana ili aluminijuma.</p>
         <h3>Protetička kolena</h3>
         <p>Kao i kod proetičkih stopala, na tržištu danas postoje mnogi različiti modeli protetskih kolena, možemo ih svrstati pod dve široke kategorije: mehanička i kompjuterizovana.</p>
         <p>Mehanička koljena mogu biti jednoosovinska ili policentrična (višeosovinska). Koleno sa jednim osovinom funkcioniše po principu šarke izdržljivo je, lagano i jeftino. Koristi klizno trenje

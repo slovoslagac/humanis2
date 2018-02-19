@@ -43,17 +43,15 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <h3>Ulošci za dijabetično stopalo</h3>
         <p>Šetnja nije samo odlična aktivnost, takođe veoma korisna za naše zdravlje. Ipak, za ljude sa dijabetesom, to bi moglo doneti niz rizika. Usled smanjene senzacije stopala može nastati veliki
             broj povreda. Shodno tome, morate obratiti veliku pažnju kada je u pitanju sprečavanje rana ili ulcera na stopalima.
-            Dobra stvar je što možete spriječiti veliki broj povreda stopala samo brigom o stopalima.Adekavtno individualno izradjeni ulošci će ravnomerno rasporediti pritisak preko cele površine
+            Dobra stvar je što možete sprečiti veliki broj povreda stopala samo brigom o stopalima.Adekavtno individualno izrađeni ulošci će ravnomerno rasporediti pritisak preko cele površine
             stopala rasterećujući tako prominentne tačke i dajući potporom bolju prokrvljenost stopala.Kombinacijom mekanog materijala i čvrste potpore stopalu dajemo dve osnovne potrebe absorpciju
-            mehaničkog pritiska i podršku koštamo zglobnog sistema.</p>
+            mehaničkog pritiska i podršku koštano zglobnog sistema.</p>
         <h3>Sportski ulošci</h3>
         <p>Bavljenje sportom od rekrativnog do profesionalnog iziskuje pojačan napor i pojačanu dinamiku i naprezanja koja u zavisnosti od vrste sporta kojom se bavimo povećavaju opterećenje i stres
             za naša stopala.
-            Kompijuterskom analizom stopala u mirovanju i dinamici jasno se utvrdjuje način na koji ostvarujemo balans ,prenoseći sile i opterećenje preko stopala.Te informacije zajedno sa
-            kombinacijom materijala će nam poslužiti za krajnje individualn pristup u izradi ortopedskih uložaka , koji će za cilj imati dobru absorpciju sila prilikom naprezanja, dinamičku potporu
-            koštano zglobnog sistema ,stabilizaciju stopala prilikom promeme kretanja kao i elastičan odraz.</p>
-
-
+            Kompijuterskom analizom stopala u mirovanju i dinamici jasno se utvrđuje način na koji ostvarujemo balans ,prenoseći sile i opterećenje preko stopala.Te informacije zajedno sa
+            kombinacijom materijala će nam poslužiti za krajnje individualan pristup u izradi ortopedskih uložaka , koji će za cilj imati dobru absorpciju sila prilikom naprezanja, dinamičku potporu
+            koštano zglobnog sistema ,stabilizaciju stopala prilikom promene kretanja kao i elastičan odraz.</p>
     </div>
     <div class="col-md-3">
         <?php for ($i = 1; $i <= 6; $i++) { ?>

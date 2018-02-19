@@ -61,7 +61,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                 <li>obezbediti odgovarajući oblik preostatka za protetičko ležište</li>
                 <li>omogućiti ranu mobilizaciju/ fizioterapiju</li>
             </ul>
-            <p>Pojačana cirkulacija podpomognuta kompresivnom terapijom ubrzava proces zarastanja rane i poboljšava opšte zdravlje.</p>
+            <p>Pojačana cirkulacija potpomognuta kompresivnom terapijom ubrzava proces zarastanja rane i poboljšava opšte zdravlje.</p>
         </div>
         <div class="col-md-6">
             <div class="col-md-6"><img src="images/kompter1.jpg" class="img img-responsive center-block imagesMain"></div>
@@ -72,10 +72,10 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
         <h3>3. Fizikalna terapija nakon amputacije</h3>
 
         <div class="col-md-6">
-            <p>Cilj fizikalne terapije nakon amputacije je jačanje mišića ključnih za pacijentovo upravljanje protezom, ali i da omogući uslove za samostalan život (obavljanje transfera izmešu
+            <p>Cilj fizikalne terapije nakon amputacije je jačanje mišića ključnih za pacijentovo upravljanje protezom, ali i da omogući uslove za samostalan život (obavljanje transfera između
                 kreveta,
                 kolica, toaleta, itd.).</p>
-            <p>Sve vežbe i transferi u početnom fazi rehabilitacije obavljaju se u kontrolisanim uslovima.</p>
+            <p>Sve vežbe i transferi u početnoj fazi rehabilitacije obavljaju se u kontrolisanim uslovima.</p>
         </div>
         <div class="col-md-6">
             <img src="images/fizteramput.jpg" class="img img-responsive center-block imagesMain">

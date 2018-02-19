@@ -46,7 +46,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
                 sublimiranih u individualno resenje koje meni danas omogucava punu pokretljivost i samostalnost. Pored silikonskog linera i vakuumskog lezista, veliku ulogu ima i preporuka za
                 mikroprocesorsko koleno koje je postalo moj pravi partner u svakodnevnim aktivnostima.</p>
             <p>Danas protezu koristim u toku celog dana bez ogranicenja pruza mi punu stabilnost i funkciju da nenapominjem komfor koji pruza proteticko leziste sa silikonskim umetkom.
-                U nadi da cemo i dalje zajedno unapredjivati moje mogucnosti, pozdravljam Vas.</p>
+                U nadi da cemo i dalje zajedno unapređivati moje mogucnosti, pozdravljam Vas.</p>
 
         </div>
     </div>

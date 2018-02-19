@@ -29,9 +29,9 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     <br>
     <div class="col-md-9 pull-left">
         <h3>Dostupne opcije</h3>
-        <p>U zavisnosti od karakteristika amputiranog stopala i količine potrebne restauracije, protetička rešenja sežu od individualno izradjenog uloška sa nadgradnjom do visokog kompozitnog.</p>
+        <p>U zavisnosti od karakteristika amputiranog stopala i količine potrebne restauracije, protetička rešenja sežu od individualno izrađenog uloška sa nadgradnjom do visokog kompozitnog.</p>
         <p>Ležišta sa dinamičkom karbonskom tabanicom.</p>
-        <p>Napredna rešenja obuhvataju maksimalnu kozmetičku i funkcionalnu restauraciju sa  individualno izradjenim silikonskim protezama.</p>
+        <p>Napredna rešenja obuhvataju maksimalnu kozmetičku i funkcionalnu restauraciju sa  individualno izrađenim silikonskim protezama.</p>
     </div>
     <div class="col-md-3">
         <?php for ($i = 1; $i <= 3; $i++) { ?>

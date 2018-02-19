@@ -28,7 +28,7 @@ include(join(DIRECTORY_SEPARATOR, array(SITE_LAYOUTS, 'header.php')));
     <h1 class="text-center">Pitajte Humanis</h1>
     <p>Dobrodošli na stranicu na kojoj se možete upoznati i posavetovati se sa našim stručnjacima i stručnim saradnicima iz oblasti, ortopedske protetike i ortotike,rehabilitacije,
         flebologije,rehabilitacionih i pomoćnih medicinskih sredstava. </p>
-    <p>Vaše pitanje možete postaviti na stranici KONTAKT sa naznakom oblasti ili stučnjaka odredjene oblasti.</p>
+    <p>Vaše pitanje možete postaviti na stranici KONTAKT sa naznakom oblasti ili stučnjaka određene oblasti.</p>
     <br>
     <div class="col-sm-12 pull-left">
         <h2>Za HUMANIS</h2>

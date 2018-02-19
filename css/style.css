@@ -74,7 +74,9 @@ a {
     max-width: 76%;
 }
 
-
+.topMarginKontakt {
+    margin-top: 30px;
+}
 
 
 @media (max-width: 1200px) {
